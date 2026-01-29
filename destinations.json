@@ -2,7 +2,7 @@
   "Goa": {
     "description": "Goa is famous for its beaches, vibrant nightlife, and Portuguese heritage.",
     "rating": 4.6,
-    "avg_cost_per_person": 12000,
+    "avg_cost_per_person": 6000,
     "attractions": ["Baga Beach", "Fort Aguada", "Dudhsagar Falls", "Calangute Beach"],
     "hotels": ["Taj Resort", "Radisson Goa", "Novotel", "Resort Rio"],
     "similar_destinations": ["Bali", "Phuket"]
@@ -10,7 +10,7 @@
   "Manali": {
     "description": "Manali is a scenic hill station in the Himalayas, popular for adventure sports and snow-capped mountains.",
     "rating": 4.5,
-    "avg_cost_per_person": 10000,
+    "avg_cost_per_person": 5000,
     "attractions": ["Rohtang Pass", "Solang Valley", "Hadimba Temple", "Vashisht Hot Springs"],
     "hotels": ["The Himalayan", "Manali Inn", "Apple Country Resort", "Snow Valley Resort"],
     "similar_destinations": ["Shimla", "Leh"]
@@ -74,7 +74,7 @@
   "Leh": {
     "description": "Leh, in the Indian Himalayas, is famous for monasteries, trekking routes, and stunning mountain landscapes.",
     "rating": 4.7,
-    "avg_cost_per_person": 15000,
+    "avg_cost_per_person": 10000,
     "attractions": ["Pangong Lake", "Thiksey Monastery", "Shanti Stupa", "Magnetic Hill"],
     "hotels": ["Grand Dragon Ladakh", "Ladakh Sarai", "Hotel Namgyal Palace", "The Indus"],
     "similar_destinations": ["Manali", "Shimla"]
@@ -138,7 +138,7 @@
   "Kerala": {
     "description": "Kerala, 'God's Own Country', is famous for its backwaters, beaches, hill stations, and Ayurveda experiences.",
     "rating": 4.6,
-    "avg_cost_per_person": 12000,
+    "avg_cost_per_person": 6000,
     "attractions": ["Alleppey Backwaters", "Munnar Tea Gardens", "Kovalam Beach", "Periyar Wildlife Sanctuary"],
     "hotels": ["Leela Kovalam", "Taj Bekal", "Kumarakom Lake Resort", "Brunton Boatyard"],
     "similar_destinations": ["Goa", "Sri Lanka"]
@@ -146,7 +146,7 @@
   "Ooty": {
     "description": "Ooty is a popular hill station in Tamil Nadu, India, known for its gardens, lakes, and scenic train rides.",
     "rating": 4.5,
-    "avg_cost_per_person": 10000,
+    "avg_cost_per_person": 9000,
     "attractions": ["Botanical Garden", "Ooty Lake", "Nilgiri Mountain Railway", "Doddabetta Peak"],
     "hotels": ["Savoy Hotel", "Sterling Ooty", "Sinclairs Retreat Ooty", "Hotel Lakeview"],
     "similar_destinations": ["Munnar", "Kodaikanal"]
