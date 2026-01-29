@@ -146,7 +146,7 @@ NumPy
 Install Python 3.9+
 
 Clone project
-git clone <project-repo>
+git clone https://github.com/Bharath25-tech/Travel-Recommendation-System.git
 
 
 Install dependencies
