@@ -76,7 +76,20 @@ def predict():
         else:
             budget_msg = "May exceed your budget ⚠"
 
-        # Images
+        # ---------- COST BREAKDOWN ----------
+        hotel_cost = int(avg_cost * 0.40)
+        food_cost = int(avg_cost * 0.25)
+        transport_cost = int(avg_cost * 0.20)
+        activity_cost = int(avg_cost * 0.15)
+
+        costs = {
+            "hotel": hotel_cost,
+            "food": food_cost,
+            "transport": transport_cost,
+            "activity": activity_cost
+        }
+
+        # ---------- Images ----------
         image_folder = os.path.join("static","images",dest)
         images = []
         if os.path.exists(image_folder):
@@ -90,6 +103,7 @@ def predict():
             "rating": info.get("rating",4.0),
             "avg_cost": avg_cost,
             "budget_msg": budget_msg,
+            "costs": costs,
             "places": info.get("attractions",[]),
             "hotels": info.get("hotels",[]),
             "images": images,
