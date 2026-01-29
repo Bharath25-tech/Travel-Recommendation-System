@@ -1,19 +1,20 @@
-from flask import Flask, render_template, request
+from flask import Flask, render_template, request, session
 import pickle
 import pandas as pd
 import os
 import json
 
 app = Flask(__name__)
+app.secret_key = "travelmate_secret"
 
 # ---------------------------
-# Load trained model and encoders
+# Load trained model & encoders
 model = pickle.load(open("travel_model.pkl", "rb"))
 cat_encoder = pickle.load(open("cat_encoder.pkl", "rb"))
 act_encoder = pickle.load(open("activity_encoder.pkl", "rb"))
 
 # ---------------------------
-# Load destinations data dynamically
+# Load destination info
 with open("destinations.json", "r") as f:
     destination_data = json.load(f)
 
@@ -25,7 +26,8 @@ def home():
 # ---------------------------
 @app.route("/predict", methods=["POST"])
 def predict():
-    # 1 Get form data
+
+    # -------- Get form inputs --------
     trip_type = request.form["type"]
     season = request.form["season"]
     group = request.form["group"]
@@ -36,53 +38,76 @@ def predict():
     people = int(request.form["people"])
     activities = request.form.getlist("activities")
 
-    # 2️ Prepare data for model
+    # -------- Encode inputs --------
     cat_df = pd.DataFrame([[trip_type, season, group, duration, health, region]],
-                          columns=["Type", "Season", "TravelGroup", "Duration", "HealthCondition", "Region"])
+        columns=["Type","Season","TravelGroup","Duration","HealthCondition","Region"])
+
     cat_enc = cat_encoder.transform(cat_df)
     act_enc = act_encoder.transform([activities])
-    num_df = pd.DataFrame([[budget, people]], columns=["BudgetPerPerson", "NumPeople"])
-    X = pd.concat([pd.DataFrame(cat_enc), pd.DataFrame(act_enc), num_df], axis=1)
+
+    num_df = pd.DataFrame([[budget, people]],
+        columns=["BudgetPerPerson","NumPeople"])
+
+    X = pd.concat([
+        pd.DataFrame(cat_enc),
+        pd.DataFrame(act_enc),
+        num_df
+    ], axis=1)
+
     X.columns = X.columns.astype(str)
 
-    # 3️ Predict destination
-    destination = model.predict(X)[0]
+    # -------- Predict probabilities --------
+    probs = model.predict_proba(X)[0]
+    classes = model.classes_
 
-    # 4️ Get destination info dynamically
-    destination_info = destination_data.get(destination, {})
+    top3_idx = probs.argsort()[-3:][::-1]
+    top3_places = [classes[i] for i in top3_idx]
 
-    description = destination_info.get("description", "")
-    rating = destination_info.get("rating", 4.0)
-    attractions = destination_info.get("attractions", [])
-    hotels = destination_info.get("hotels", [])
-    similar = destination_info.get("similar_destinations", [])
+    results = []
 
-    # 5️ Google / Map links
-    google_links = [
-        f"https://www.google.com/search?q={destination}+attractions",
-        f"https://www.google.com/search?q={destination}+top+hotels"
-    ]
-    map_link = f"https://www.google.com/maps/search/{destination}"
+    for dest in top3_places:
 
-    # 6️ Images
-    image_folder = os.path.join("static", "images", destination)
-    images = []
-    if os.path.exists(image_folder):
-        for img_file in os.listdir(image_folder):
-            if img_file.lower().endswith((".jpg", ".jpeg", ".png")):
-                images.append(f"images/{destination}/{img_file}")
+        info = destination_data.get(dest, {})
 
-    # 7️ Render result page
-    return render_template("result.html",
-                           result=destination,
-                           description=description,
-                           rating=rating,
-                           places=attractions,
-                           hotels=hotels,
-                           similar=similar,
-                           google_links=google_links,
-                           map_link=map_link,
-                           images=images)
+        avg_cost = info.get("avg_cost_per_person", 0)
+
+        if budget >= avg_cost:
+            budget_msg = "Fits your budget ✅"
+        else:
+            budget_msg = "May exceed your budget ⚠"
+
+        # Images
+        image_folder = os.path.join("static","images",dest)
+        images = []
+        if os.path.exists(image_folder):
+            for img in os.listdir(image_folder):
+                if img.lower().endswith((".jpg",".jpeg",".png")):
+                    images.append(f"images/{dest}/{img}")
+
+        results.append({
+            "name": dest,
+            "description": info.get("description",""),
+            "rating": info.get("rating",4.0),
+            "avg_cost": avg_cost,
+            "budget_msg": budget_msg,
+            "places": info.get("attractions",[]),
+            "hotels": info.get("hotels",[]),
+            "images": images,
+            "map": f"https://www.google.com/maps/search/{dest}",
+            "google_attr": f"https://www.google.com/search?q={dest}+attractions",
+            "google_hotels": f"https://www.google.com/search?q={dest}+hotels"
+        })
+
+    # Save similar destinations
+    session["similar_results"] = results[1:]
+
+    return render_template("result.html", result=results[0])
+
+# ---------------------------
+@app.route("/similar")
+def similar():
+    sims = session.get("similar_results", [])
+    return render_template("similar.html", results=sims)
 
 # ---------------------------
 if __name__ == "__main__":

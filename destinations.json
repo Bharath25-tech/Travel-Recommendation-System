@@ -2,6 +2,7 @@
   "Goa": {
     "description": "Goa is famous for its beaches, vibrant nightlife, and Portuguese heritage.",
     "rating": 4.6,
+    "avg_cost_per_person": 12000,
     "attractions": ["Baga Beach", "Fort Aguada", "Dudhsagar Falls", "Calangute Beach"],
     "hotels": ["Taj Resort", "Radisson Goa", "Novotel", "Resort Rio"],
     "similar_destinations": ["Bali", "Phuket"]
@@ -9,6 +10,7 @@
   "Manali": {
     "description": "Manali is a scenic hill station in the Himalayas, popular for adventure sports and snow-capped mountains.",
     "rating": 4.5,
+    "avg_cost_per_person": 10000,
     "attractions": ["Rohtang Pass", "Solang Valley", "Hadimba Temple", "Vashisht Hot Springs"],
     "hotels": ["The Himalayan", "Manali Inn", "Apple Country Resort", "Snow Valley Resort"],
     "similar_destinations": ["Shimla", "Leh"]
@@ -16,6 +18,7 @@
   "Delhi": {
     "description": "Delhi, the capital of India, is rich in history with monuments like Red Fort, India Gate, and Qutub Minar.",
     "rating": 4.2,
+    "avg_cost_per_person": 9000,
     "attractions": ["Red Fort", "India Gate", "Qutub Minar", "Lotus Temple"],
     "hotels": ["The Leela Palace", "ITC Maurya", "Taj Mahal Hotel", "The Oberoi"],
     "similar_destinations": ["Agra", "Jaipur"]
@@ -23,6 +26,7 @@
   "Rishikesh": {
     "description": "Rishikesh is the yoga capital of the world, famous for the Ganga river, temples, and adventure sports like rafting.",
     "rating": 4.7,
+    "avg_cost_per_person": 8000,
     "attractions": ["Ram Jhula", "Triveni Ghat", "Laxman Jhula", "Neer Garh Waterfall"],
     "hotels": ["Ganga View", "Aloha on the Ganges", "Live Free Resort", "Ananda Spa Resort"],
     "similar_destinations": ["Interlaken", "Queenstown"]
@@ -30,6 +34,7 @@
   "Zurich": {
     "description": "Zurich, Switzerland's largest city, is known for its beautiful lakes, historic old town, and luxury shopping.",
     "rating": 4.6,
+    "avg_cost_per_person": 30000,
     "attractions": ["Lake Zurich", "Bahnhofstrasse", "Grossmünster", "Swiss National Museum"],
     "hotels": ["Baur au Lac", "The Dolder Grand", "Hotel Schweizerhof", "Park Hyatt Zurich"],
     "similar_destinations": ["Paris", "London"]
@@ -37,6 +42,7 @@
   "Paris": {
     "description": "Paris, the city of lights, is famous for the Eiffel Tower, Louvre Museum, and romantic ambiance.",
     "rating": 4.8,
+    "avg_cost_per_person": 28000,
     "attractions": ["Eiffel Tower", "Louvre Museum", "Notre Dame Cathedral", "Montmartre"],
     "hotels": ["Le Meurice", "Shangri-La Paris", "Hotel Ritz", "Hotel Le Bristol"],
     "similar_destinations": ["Zurich", "London"]
@@ -44,6 +50,7 @@
   "London": {
     "description": "London is the capital of England, known for its history, culture, and iconic landmarks like Big Ben and London Eye.",
     "rating": 4.7,
+    "avg_cost_per_person": 27000,
     "attractions": ["Big Ben", "London Eye", "Tower of London", "Buckingham Palace"],
     "hotels": ["The Ritz London", "The Savoy", "The Langham", "Shangri-La Hotel"],
     "similar_destinations": ["Paris", "Zurich"]
@@ -51,6 +58,7 @@
   "Bali": {
     "description": "Bali, Indonesia, is famous for its forested volcanic mountains, iconic rice paddies, beaches, and coral reefs.",
     "rating": 4.7,
+    "avg_cost_per_person": 20000,
     "attractions": ["Ubud Monkey Forest", "Tanah Lot Temple", "Kuta Beach", "Tegallalang Rice Terraces"],
     "hotels": ["The Ritz-Carlton Bali", "Four Seasons Resort", "Alila Villas Uluwatu", "W Bali"],
     "similar_destinations": ["Goa", "Phuket"]
@@ -58,6 +66,7 @@
   "Phuket": {
     "description": "Phuket is Thailand’s largest island, known for its beaches, nightlife, and water sports.",
     "rating": 4.6,
+    "avg_cost_per_person": 19000,
     "attractions": ["Patong Beach", "Big Buddha", "Phang Nga Bay", "Phi Phi Islands"],
     "hotels": ["Amari Phuket", "The Shore at Katathani", "Trisara", "JW Marriott Phuket"],
     "similar_destinations": ["Goa", "Bali"]
@@ -65,6 +74,7 @@
   "Leh": {
     "description": "Leh, in the Indian Himalayas, is famous for monasteries, trekking routes, and stunning mountain landscapes.",
     "rating": 4.7,
+    "avg_cost_per_person": 15000,
     "attractions": ["Pangong Lake", "Thiksey Monastery", "Shanti Stupa", "Magnetic Hill"],
     "hotels": ["Grand Dragon Ladakh", "Ladakh Sarai", "Hotel Namgyal Palace", "The Indus"],
     "similar_destinations": ["Manali", "Shimla"]
@@ -72,6 +82,7 @@
   "Shimla": {
     "description": "Shimla is a charming hill station in India, known for its colonial architecture, Mall Road, and scenic mountains.",
     "rating": 4.5,
+    "avg_cost_per_person": 9500,
     "attractions": ["The Ridge", "Mall Road", "Jakhoo Temple", "Kufri"],
     "hotels": ["The Oberoi Cecil", "Radisson Hotel Shimla", "Clarkes Hotel", "Hotel Willow Banks"],
     "similar_destinations": ["Manali", "Leh"]
@@ -79,6 +90,7 @@
   "Agra": {
     "description": "Agra is home to the iconic Taj Mahal, rich Mughal heritage, and beautiful forts.",
     "rating": 4.6,
+    "avg_cost_per_person": 9000,
     "attractions": ["Taj Mahal", "Agra Fort", "Mehtab Bagh", "Itmad-ud-Daulah"],
     "hotels": ["Taj Hotel & Convention Centre", "ITC Mughal", "The Oberoi Amarvilas", "Trident Agra"],
     "similar_destinations": ["Delhi", "Jaipur"]
@@ -86,6 +98,7 @@
   "Jaipur": {
     "description": "Jaipur, the Pink City, is famous for its palaces, forts, and vibrant culture.",
     "rating": 4.5,
+    "avg_cost_per_person": 9500,
     "attractions": ["Amber Fort", "City Palace", "Hawa Mahal", "Jantar Mantar"],
     "hotels": ["Rambagh Palace", "The Oberoi Rajvilas", "Trident Jaipur", "Jaipur Marriott Hotel"],
     "similar_destinations": ["Agra", "Delhi"]
@@ -93,6 +106,7 @@
   "Interlaken": {
     "description": "Interlaken, Switzerland, is famous for adventure sports, lakes, and alpine scenery.",
     "rating": 4.7,
+    "avg_cost_per_person": 28000,
     "attractions": ["Jungfraujoch", "Lake Thun", "Harder Kulm", "Lake Brienz"],
     "hotels": ["Victoria Jungfrau Grand Hotel", "Hotel Interlaken", "Lindner Grand Hotel Beau Rivage", "Hotel Royal St Georges"],
     "similar_destinations": ["Rishikesh", "Queenstown"]
@@ -100,8 +114,41 @@
   "Queenstown": {
     "description": "Queenstown, New Zealand, is famous for adventure sports, lakes, and stunning mountains.",
     "rating": 4.8,
+    "avg_cost_per_person": 27000,
     "attractions": ["Lake Wakatipu", "Skyline Gondola", "Shotover River", "Remarkables"],
     "hotels": ["Eichardt's Private Hotel", "Matakauri Lodge", "The Rees Hotel", "Novotel Queenstown"],
     "similar_destinations": ["Rishikesh", "Interlaken"]
+  },
+  "Hampi": {
+    "description": "Hampi is a UNESCO World Heritage site in Karnataka, India, known for its ancient ruins, temples, and boulder-strewn landscapes.",
+    "rating": 4.6,
+    "avg_cost_per_person": 8000,
+    "attractions": ["Virupaksha Temple", "Vittala Temple", "Hampi Bazaar", "Matanga Hill"],
+    "hotels": ["Evolve Back Hampi", "Mango Tree Resort", "Hampi Boulders", "Clarks Inn Hampi"],
+    "similar_destinations": ["Jaipur", "Agra"]
+  },
+  "Dubai": {
+    "description": "Dubai is a modern city in the UAE, famous for luxury shopping, ultramodern architecture, and desert adventures.",
+    "rating": 4.7,
+    "avg_cost_per_person": 25000,
+    "attractions": ["Burj Khalifa", "Dubai Mall", "Desert Safari", "Palm Jumeirah"],
+    "hotels": ["Burj Al Arab", "Atlantis The Palm", "Armani Hotel", "Jumeirah Beach Hotel"],
+    "similar_destinations": ["Abu Dhabi", "Singapore"]
+  },
+  "Kerala": {
+    "description": "Kerala, 'God's Own Country', is famous for its backwaters, beaches, hill stations, and Ayurveda experiences.",
+    "rating": 4.6,
+    "avg_cost_per_person": 12000,
+    "attractions": ["Alleppey Backwaters", "Munnar Tea Gardens", "Kovalam Beach", "Periyar Wildlife Sanctuary"],
+    "hotels": ["Leela Kovalam", "Taj Bekal", "Kumarakom Lake Resort", "Brunton Boatyard"],
+    "similar_destinations": ["Goa", "Sri Lanka"]
+  },
+  "Ooty": {
+    "description": "Ooty is a popular hill station in Tamil Nadu, India, known for its gardens, lakes, and scenic train rides.",
+    "rating": 4.5,
+    "avg_cost_per_person": 10000,
+    "attractions": ["Botanical Garden", "Ooty Lake", "Nilgiri Mountain Railway", "Doddabetta Peak"],
+    "hotels": ["Savoy Hotel", "Sterling Ooty", "Sinclairs Retreat Ooty", "Hotel Lakeview"],
+    "similar_destinations": ["Munnar", "Kodaikanal"]
   }
 }

@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Similar Destinations</title>
+
+<style>
+body{
+    margin:0;
+    font-family:'Segoe UI',sans-serif;
+    background:linear-gradient(120deg,#0f2027,#203a43,#2c5364);
+    color:white;
+}
+
+.container{
+    max-width:1100px;
+    margin:auto;
+    padding:30px;
+}
+
+h1{
+    text-align:center;
+    font-size:42px;
+}
+
+.section{margin-top:40px;}
+
+.section h2{
+    border-left:6px solid #00e6ff;
+    padding-left:12px;
+}
+
+.rating{
+    text-align:center;
+    font-size:18px;
+    color:gold;
+    margin-bottom:10px;
+}
+
+/* Slider */
+.slider{
+    position:relative;
+    height:400px;
+    overflow:hidden;
+    border-radius:20px;
+    margin:25px 0;
+}
+
+.slide{
+    position:absolute;
+    width:100%;
+    height:100%;
+    opacity:0;
+    transition:1s;
+}
+
+.slide img{
+    width:100%;
+    height:100%;
+    object-fit:cover;
+}
+
+.active{opacity:1;}
+
+/* Buttons */
+.buttons{
+    display:flex;
+    justify-content:center;
+    flex-wrap:wrap;
+    gap:15px;
+    margin-top:40px;
+}
+
+.btn{
+    text-decoration:none;
+    background:#00e6ff;
+    color:black;
+    padding:14px 26px;
+    border-radius:30px;
+    font-weight:bold;
+}
+
+.btn:hover{
+    background:white;
+}
+
+/* HR styling to match result.html */
+hr{
+    border: none;
+    height: 2px;
+    background: linear-gradient(90deg, transparent, #00e6ff, transparent);
+    margin: 40px 0;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>Similar Destinations</h1>
+
+{% for d in results %}
+
+<div class="section">
+
+<h2>{{ d.name }}</h2>
+
+<div class="rating">
+⭐ {{ d.rating }} / 5 <br>
+{{ d.budget_msg }} <br>
+Average Cost Per Person: ₹{{ d.avg_cost|default(0) }}
+</div>
+
+<!-- IMAGE SLIDER -->
+<div class="slider">
+{% for img in d.images %}
+<div class="slide {% if loop.index==1 %}active{% endif %}">
+<img src="{{ url_for('static', filename=img) }}">
+</div>
+{% endfor %}
+</div>
+
+<p>{{ d.description }}</p>
+
+<!-- ALL BUTTONS FROM result.html -->
+<div class="buttons">
+<a class="btn" href="/result/{{ d.name|replace(' ', '_') }}">Full Details</a>
+<a class="btn" href="{{ d.google_attr|default('#') }}" target="_blank">Google Attractions</a>
+<a class="btn" href="{{ d.google_hotels|default('#') }}" target="_blank">Google Hotels</a>
+<a class="btn" href="{{ d.map }}" target="_blank">Open Maps</a>
+</div>
+
+</div>
+
+<hr>
+
+{% endfor %}
+
+<!-- BACK HOME BUTTON -->
+<div style="text-align:center; margin-top:30px;">
+<a class="btn" href="/">⬅ Back Home</a>
+</div>
+
+</div>
+
+<script>
+document.querySelectorAll(".slider").forEach(slider=>{
+    let slides=slider.querySelectorAll(".slide");
+    let i=0;
+    setInterval(()=>{
+        slides[i].classList.remove("active");
+        i=(i+1)%slides.length;
+        slides[i].classList.add("active");
+    },3000);
+});
+</script>
+
+</body>
+</html>
