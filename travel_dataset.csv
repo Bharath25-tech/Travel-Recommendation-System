@@ -1,0 +1,1001 @@
+Destination,Type,Season,TravelGroup,Activities,BudgetPerPerson,Duration,HealthCondition,NumPeople,Region
+Paris,City,Summer,Couple,"Sightseeing,Culture",12577,Long,Heart Issues,1,Other
+Dubai,City,Winter,Solo,"Shopping,Adventure",12596,Short,Asthma,3,Other
+Leh,Mountain,Summer,Family,"Trekking,Adventure",11524,Long,None,1,India
+Goa,Beach,Summer,Solo,"Beach,Party,Relaxation",21001,Long,Heart Issues,5,India
+Goa,Beach,Summer,Friends,"Beach,Party,Relaxation",20532,Short,None,1,India
+London,City,Winter,Couple,"Culture,Sightseeing",5451,Long,Heart Issues,1,Other
+Dubai,City,Winter,Couple,"Shopping,Adventure",24218,Short,Asthma,4,Other
+Paris,City,Summer,Solo,"Sightseeing,Culture",10096,Long,None,1,Other
+Leh,Mountain,Summer,Solo,"Trekking,Adventure",10168,Short,Asthma,6,India
+Manali,Mountain,Winter,Couple,"Trekking,Adventure",5339,Long,Asthma,3,India
+Hampi,Historical,Winter,Friends,"Sightseeing,Photography",11410,Long,None,6,India
+Singapore,City,Summer,Solo,"Shopping,ThemePark",12036,Short,Heart Issues,6,Other
+Ooty,Hill/Beach,Winter,Couple,"Relaxation,Trekking",17368,Short,None,6,India
+Manali,Mountain,Winter,Solo,"Trekking,Adventure",5282,Short,None,2,India
+Hampi,Historical,Winter,Solo,"Sightseeing,Photography",21067,Short,None,6,India
+Singapore,City,Summer,Couple,"Shopping,ThemePark",17129,Long,None,2,Other
+Kerala,Hill/Beach,Monsoon,Friends,"Houseboat,Relaxation",23297,Short,Heart Issues,4,India
+Goa,Beach,Summer,Friends,"Beach,Party,Relaxation",9284,Long,Asthma,5,India
+Ooty,Hill/Beach,Winter,Solo,"Relaxation,Trekking",13862,Short,None,2,India
+Manali,Mountain,Winter,Family,"Trekking,Adventure",20971,Long,Asthma,5,India
+Dubai,City,Winter,Couple,"Shopping,Adventure",14865,Long,Asthma,4,Other
+London,City,Winter,Family,"Culture,Sightseeing",12451,Long,None,1,Other
+Ooty,Hill/Beach,Winter,Couple,"Relaxation,Trekking",14277,Long,None,2,India
+Singapore,City,Summer,Friends,"Shopping,ThemePark",17462,Short,Asthma,2,Other
+Paris,City,Summer,Solo,"Sightseeing,Culture",15692,Short,None,4,Other
+Goa,Beach,Summer,Friends,"Beach,Party,Relaxation",14058,Long,Heart Issues,2,India
+Goa,Beach,Summer,Family,"Beach,Party,Relaxation",18142,Short,None,2,India
+Goa,Beach,Summer,Family,"Beach,Party,Relaxation",4407,Long,Asthma,4,India
+Manali,Mountain,Winter,Couple,"Trekking,Adventure",3014,Short,Heart Issues,6,India
+Goa,Beach,Summer,Solo,"Beach,Party,Relaxation",10064,Short,None,6,India
+London,City,Winter,Couple,"Culture,Sightseeing",11129,Short,Heart Issues,2,Other
+Leh,Mountain,Summer,Couple,"Trekking,Adventure",3894,Long,Heart Issues,4,India
+Goa,Beach,Summer,Friends,"Beach,Party,Relaxation",15182,Long,Heart Issues,4,India
+Goa,Beach,Summer,Family,"Beach,Party,Relaxation",9743,Long,Asthma,6,India
+London,City,Winter,Friends,"Culture,Sightseeing",21156,Short,Asthma,5,Other
+Leh,Mountain,Summer,Friends,"Trekking,Adventure",23973,Short,Heart Issues,2,India
+Manali,Mountain,Winter,Friends,"Trekking,Adventure",11171,Short,Heart Issues,3,India
+Hampi,Historical,Winter,Family,"Sightseeing,Photography",7128,Long,None,2,India
+Hampi,Historical,Winter,Couple,"Sightseeing,Photography",16908,Long,None,4,India
+Dubai,City,Winter,Family,"Shopping,Adventure",11112,Long,None,4,Other
+Dubai,City,Winter,Couple,"Shopping,Adventure",19513,Long,Heart Issues,2,Other
+Goa,Beach,Summer,Friends,"Beach,Party,Relaxation",15859,Short,Heart Issues,6,India
+Manali,Mountain,Winter,Couple,"Trekking,Adventure",9285,Short,Asthma,1,India
+Leh,Mountain,Summer,Family,"Trekking,Adventure",24713,Long,None,6,India
+Kerala,Hill/Beach,Monsoon,Couple,"Houseboat,Relaxation",4057,Short,Asthma,2,India
+Singapore,City,Summer,Couple,"Shopping,ThemePark",22473,Short,None,3,Other
+Kerala,Hill/Beach,Monsoon,Solo,"Houseboat,Relaxation",5464,Short,Asthma,6,India
+Paris,City,Summer,Couple,"Sightseeing,Culture",4264,Long,Asthma,1,Other
+Paris,City,Summer,Friends,"Sightseeing,Culture",15828,Short,Asthma,1,Other
+Manali,Mountain,Winter,Couple,"Trekking,Adventure",3614,Short,Asthma,5,India
+Paris,City,Summer,Family,"Sightseeing,Culture",8847,Short,Asthma,2,Other
+Leh,Mountain,Summer,Family,"Trekking,Adventure",15046,Short,Heart Issues,5,India
+Leh,Mountain,Summer,Couple,"Trekking,Adventure",21868,Short,Asthma,1,India
+Goa,Beach,Summer,Solo,"Beach,Party,Relaxation",14431,Short,Heart Issues,3,India
+Goa,Beach,Summer,Friends,"Beach,Party,Relaxation",3439,Long,Heart Issues,3,India
+Leh,Mountain,Summer,Family,"Trekking,Adventure",12702,Short,Heart Issues,5,India
+London,City,Winter,Solo,"Culture,Sightseeing",10130,Long,Asthma,3,Other
+Leh,Mountain,Summer,Solo,"Trekking,Adventure",20085,Short,Asthma,3,India
+Hampi,Historical,Winter,Couple,"Sightseeing,Photography",4815,Short,Asthma,6,India
+Leh,Mountain,Summer,Friends,"Trekking,Adventure",22152,Long,Heart Issues,3,India
+Dubai,City,Winter,Family,"Shopping,Adventure",20485,Long,Heart Issues,1,Other
+Manali,Mountain,Winter,Friends,"Trekking,Adventure",6893,Long,Heart Issues,3,India
+Leh,Mountain,Summer,Friends,"Trekking,Adventure",19039,Short,None,1,India
+Singapore,City,Summer,Family,"Shopping,ThemePark",22825,Short,Asthma,3,Other
+Paris,City,Summer,Solo,"Sightseeing,Culture",19152,Long,None,5,Other
+Goa,Beach,Summer,Solo,"Beach,Party,Relaxation",4657,Short,Asthma,1,India
+Goa,Beach,Summer,Friends,"Beach,Party,Relaxation",6736,Short,None,3,India
+Kerala,Hill/Beach,Monsoon,Family,"Houseboat,Relaxation",12989,Short,None,1,India
+London,City,Winter,Friends,"Culture,Sightseeing",10696,Short,Asthma,2,Other
+Dubai,City,Winter,Couple,"Shopping,Adventure",13247,Long,Asthma,6,Other
+Ooty,Hill/Beach,Winter,Solo,"Relaxation,Trekking",8209,Short,None,4,India
+Ooty,Hill/Beach,Winter,Couple,"Relaxation,Trekking",8994,Short,Heart Issues,5,India
+Singapore,City,Summer,Solo,"Shopping,ThemePark",10326,Long,Heart Issues,4,Other
+Hampi,Historical,Winter,Couple,"Sightseeing,Photography",9849,Short,None,3,India
+London,City,Winter,Family,"Culture,Sightseeing",11670,Long,None,2,Other
+Hampi,Historical,Winter,Couple,"Sightseeing,Photography",19803,Short,None,2,India
+Leh,Mountain,Summer,Family,"Trekking,Adventure",24695,Long,Asthma,4,India
+Dubai,City,Winter,Family,"Shopping,Adventure",3177,Long,Asthma,4,Other
+Singapore,City,Summer,Family,"Shopping,ThemePark",18481,Long,None,4,Other
+Kerala,Hill/Beach,Monsoon,Couple,"Houseboat,Relaxation",15923,Short,Heart Issues,6,India
+Singapore,City,Summer,Family,"Shopping,ThemePark",11826,Short,Asthma,3,Other
+Ooty,Hill/Beach,Winter,Friends,"Relaxation,Trekking",6651,Short,None,3,India
+Singapore,City,Summer,Solo,"Shopping,ThemePark",13513,Short,Asthma,5,Other
+Hampi,Historical,Winter,Couple,"Sightseeing,Photography",9268,Long,Asthma,2,India
+Paris,City,Summer,Couple,"Sightseeing,Culture",4044,Short,None,5,Other
+London,City,Winter,Friends,"Culture,Sightseeing",21208,Long,Asthma,6,Other
+Paris,City,Summer,Couple,"Sightseeing,Culture",16462,Long,None,3,Other
+Ooty,Hill/Beach,Winter,Family,"Relaxation,Trekking",4711,Short,Heart Issues,5,India
+Goa,Beach,Summer,Couple,"Beach,Party,Relaxation",23900,Long,Asthma,5,India
+Paris,City,Summer,Solo,"Sightseeing,Culture",8131,Long,Asthma,6,Other
+Hampi,Historical,Winter,Family,"Sightseeing,Photography",7999,Short,Heart Issues,4,India
+Manali,Mountain,Winter,Friends,"Trekking,Adventure",10850,Long,None,5,India
+Leh,Mountain,Summer,Couple,"Trekking,Adventure",19461,Long,Asthma,1,India
+Hampi,Historical,Winter,Solo,"Sightseeing,Photography",21798,Long,Asthma,6,India
+London,City,Winter,Family,"Culture,Sightseeing",3062,Long,Heart Issues,2,Other
+Manali,Mountain,Winter,Solo,"Trekking,Adventure",13271,Short,None,6,India
+London,City,Winter,Family,"Culture,Sightseeing",20950,Short,Asthma,4,Other
+Manali,Mountain,Winter,Friends,"Trekking,Adventure",15954,Long,Asthma,3,India
+Manali,Mountain,Winter,Solo,"Trekking,Adventure",5930,Long,Asthma,5,India
+Singapore,City,Summer,Solo,"Shopping,ThemePark",20146,Short,None,2,Other
+Manali,Mountain,Winter,Family,"Trekking,Adventure",22602,Long,None,3,India
+Paris,City,Summer,Solo,"Sightseeing,Culture",5788,Short,None,4,Other
+Dubai,City,Winter,Friends,"Shopping,Adventure",3973,Short,Heart Issues,5,Other
+Goa,Beach,Summer,Solo,"Beach,Party,Relaxation",5715,Long,Asthma,1,India
+London,City,Winter,Couple,"Culture,Sightseeing",4309,Long,None,3,Other
+London,City,Winter,Friends,"Culture,Sightseeing",4046,Short,None,4,Other
+Singapore,City,Summer,Couple,"Shopping,ThemePark",6837,Long,Heart Issues,6,Other
+Kerala,Hill/Beach,Monsoon,Family,"Houseboat,Relaxation",6856,Long,Heart Issues,3,India
+Dubai,City,Winter,Friends,"Shopping,Adventure",14139,Short,Asthma,6,Other
+Hampi,Historical,Winter,Couple,"Sightseeing,Photography",3369,Long,None,1,India
+Goa,Beach,Summer,Solo,"Beach,Party,Relaxation",23134,Long,None,5,India
+Hampi,Historical,Winter,Couple,"Sightseeing,Photography",8668,Short,None,4,India
+Paris,City,Summer,Family,"Sightseeing,Culture",15403,Long,Asthma,3,Other
+Singapore,City,Summer,Solo,"Shopping,ThemePark",16503,Long,Asthma,4,Other
+Kerala,Hill/Beach,Monsoon,Solo,"Houseboat,Relaxation",19269,Short,None,4,India
+Kerala,Hill/Beach,Monsoon,Family,"Houseboat,Relaxation",6514,Short,None,6,India
+Leh,Mountain,Summer,Family,"Trekking,Adventure",23799,Long,Asthma,2,India
+Paris,City,Summer,Friends,"Sightseeing,Culture",16241,Short,Asthma,2,Other
+Dubai,City,Winter,Friends,"Shopping,Adventure",9915,Short,Asthma,1,Other
+Kerala,Hill/Beach,Monsoon,Solo,"Houseboat,Relaxation",9929,Short,Asthma,4,India
+London,City,Winter,Family,"Culture,Sightseeing",12311,Short,Asthma,1,Other
+Leh,Mountain,Summer,Solo,"Trekking,Adventure",15912,Short,None,5,India
+Manali,Mountain,Winter,Couple,"Trekking,Adventure",20020,Long,Heart Issues,6,India
+Manali,Mountain,Winter,Friends,"Trekking,Adventure",22906,Long,Asthma,6,India
+Singapore,City,Summer,Couple,"Shopping,ThemePark",22340,Long,Heart Issues,4,Other
+Dubai,City,Winter,Couple,"Shopping,Adventure",7883,Long,None,2,Other
+Dubai,City,Winter,Friends,"Shopping,Adventure",19599,Short,Asthma,3,Other
+Leh,Mountain,Summer,Couple,"Trekking,Adventure",7171,Long,Asthma,5,India
+Paris,City,Summer,Family,"Sightseeing,Culture",13984,Short,Asthma,5,Other
+Kerala,Hill/Beach,Monsoon,Family,"Houseboat,Relaxation",14712,Short,None,5,India
+Paris,City,Summer,Couple,"Sightseeing,Culture",16491,Long,Heart Issues,5,Other
+Manali,Mountain,Winter,Couple,"Trekking,Adventure",12809,Short,Asthma,5,India
+Ooty,Hill/Beach,Winter,Friends,"Relaxation,Trekking",16843,Long,Heart Issues,2,India
+Paris,City,Summer,Solo,"Sightseeing,Culture",6177,Long,Asthma,3,Other
+Ooty,Hill/Beach,Winter,Friends,"Relaxation,Trekking",10185,Long,None,3,India
+Singapore,City,Summer,Solo,"Shopping,ThemePark",15673,Long,Heart Issues,1,Other
+Paris,City,Summer,Solo,"Sightseeing,Culture",19948,Long,None,1,Other
+Ooty,Hill/Beach,Winter,Solo,"Relaxation,Trekking",6257,Long,Asthma,6,India
+Ooty,Hill/Beach,Winter,Family,"Relaxation,Trekking",18773,Short,Asthma,1,India
+Singapore,City,Summer,Couple,"Shopping,ThemePark",3092,Short,None,6,Other
+Goa,Beach,Summer,Solo,"Beach,Party,Relaxation",19450,Long,None,2,India
+Leh,Mountain,Summer,Couple,"Trekking,Adventure",15646,Long,Asthma,1,India
+Leh,Mountain,Summer,Friends,"Trekking,Adventure",16823,Short,None,1,India
+Leh,Mountain,Summer,Solo,"Trekking,Adventure",10727,Long,Heart Issues,6,India
+Kerala,Hill/Beach,Monsoon,Solo,"Houseboat,Relaxation",22893,Short,None,1,India
+Dubai,City,Winter,Solo,"Shopping,Adventure",17576,Short,None,5,Other
+Leh,Mountain,Summer,Solo,"Trekking,Adventure",5583,Long,Heart Issues,6,India
+Singapore,City,Summer,Family,"Shopping,ThemePark",23964,Long,Asthma,2,Other
+Dubai,City,Winter,Couple,"Shopping,Adventure",11572,Short,Asthma,6,Other
+Dubai,City,Winter,Couple,"Shopping,Adventure",13660,Long,None,4,Other
+Kerala,Hill/Beach,Monsoon,Couple,"Houseboat,Relaxation",6370,Short,Asthma,2,India
+Kerala,Hill/Beach,Monsoon,Solo,"Houseboat,Relaxation",21381,Long,Asthma,6,India
+Paris,City,Summer,Family,"Sightseeing,Culture",14246,Short,Heart Issues,2,Other
+Leh,Mountain,Summer,Family,"Trekking,Adventure",6430,Long,Heart Issues,3,India
+Dubai,City,Winter,Solo,"Shopping,Adventure",19880,Long,Asthma,2,Other
+Hampi,Historical,Winter,Family,"Sightseeing,Photography",14540,Long,None,3,India
+Paris,City,Summer,Friends,"Sightseeing,Culture",7977,Long,None,4,Other
+Manali,Mountain,Winter,Friends,"Trekking,Adventure",20837,Long,None,4,India
+Ooty,Hill/Beach,Winter,Couple,"Relaxation,Trekking",16968,Long,Heart Issues,4,India
+Manali,Mountain,Winter,Friends,"Trekking,Adventure",11880,Long,Asthma,5,India
+Hampi,Historical,Winter,Solo,"Sightseeing,Photography",24540,Long,Asthma,6,India
+Ooty,Hill/Beach,Winter,Solo,"Relaxation,Trekking",5883,Short,None,2,India
+Hampi,Historical,Winter,Family,"Sightseeing,Photography",16804,Short,None,2,India
+Paris,City,Summer,Friends,"Sightseeing,Culture",13472,Short,Heart Issues,3,Other
+Hampi,Historical,Winter,Couple,"Sightseeing,Photography",10082,Short,Heart Issues,6,India
+Kerala,Hill/Beach,Monsoon,Couple,"Houseboat,Relaxation",16018,Long,Asthma,1,India
+Paris,City,Summer,Family,"Sightseeing,Culture",14595,Long,Heart Issues,1,Other
+Goa,Beach,Summer,Couple,"Beach,Party,Relaxation",7815,Short,Heart Issues,4,India
+Ooty,Hill/Beach,Winter,Solo,"Relaxation,Trekking",23214,Long,None,5,India
+Hampi,Historical,Winter,Couple,"Sightseeing,Photography",10531,Short,Heart Issues,3,India
+Ooty,Hill/Beach,Winter,Family,"Relaxation,Trekking",9656,Short,Asthma,3,India
+Hampi,Historical,Winter,Couple,"Sightseeing,Photography",17751,Short,Heart Issues,6,India
+Leh,Mountain,Summer,Couple,"Trekking,Adventure",14464,Short,Heart Issues,1,India
+Manali,Mountain,Winter,Solo,"Trekking,Adventure",19361,Long,Heart Issues,6,India
+Leh,Mountain,Summer,Friends,"Trekking,Adventure",21903,Short,Heart Issues,5,India
+Kerala,Hill/Beach,Monsoon,Family,"Houseboat,Relaxation",13676,Short,None,6,India
+Manali,Mountain,Winter,Friends,"Trekking,Adventure",15211,Long,None,6,India
+Manali,Mountain,Winter,Couple,"Trekking,Adventure",5121,Short,Heart Issues,6,India
+Goa,Beach,Summer,Couple,"Beach,Party,Relaxation",23479,Short,Asthma,1,India
+Kerala,Hill/Beach,Monsoon,Family,"Houseboat,Relaxation",13845,Short,Asthma,1,India
+Goa,Beach,Summer,Friends,"Beach,Party,Relaxation",13356,Long,Heart Issues,2,India
+Ooty,Hill/Beach,Winter,Solo,"Relaxation,Trekking",8045,Long,None,5,India
+Hampi,Historical,Winter,Couple,"Sightseeing,Photography",3819,Short,None,6,India
+Manali,Mountain,Winter,Solo,"Trekking,Adventure",22348,Long,Asthma,3,India
+Dubai,City,Winter,Family,"Shopping,Adventure",18440,Long,None,6,Other
+Leh,Mountain,Summer,Couple,"Trekking,Adventure",21332,Short,Heart Issues,4,India
+London,City,Winter,Family,"Culture,Sightseeing",12920,Long,None,3,Other
+Singapore,City,Summer,Friends,"Shopping,ThemePark",20582,Long,None,3,Other
+Manali,Mountain,Winter,Couple,"Trekking,Adventure",11142,Long,Heart Issues,5,India
+London,City,Winter,Couple,"Culture,Sightseeing",23908,Short,Heart Issues,5,Other
+Leh,Mountain,Summer,Solo,"Trekking,Adventure",19441,Long,Asthma,4,India
+Dubai,City,Winter,Friends,"Shopping,Adventure",17839,Long,None,6,Other
+Singapore,City,Summer,Family,"Shopping,ThemePark",5490,Short,None,5,Other
+London,City,Winter,Couple,"Culture,Sightseeing",20322,Short,Asthma,2,Other
+Hampi,Historical,Winter,Couple,"Sightseeing,Photography",6570,Long,Asthma,4,India
+Paris,City,Summer,Friends,"Sightseeing,Culture",6004,Short,None,1,Other
+Singapore,City,Summer,Couple,"Shopping,ThemePark",8281,Short,None,6,Other
+London,City,Winter,Solo,"Culture,Sightseeing",14648,Long,None,4,Other
+Ooty,Hill/Beach,Winter,Family,"Relaxation,Trekking",24955,Long,Asthma,1,India
+Kerala,Hill/Beach,Monsoon,Friends,"Houseboat,Relaxation",20120,Short,None,6,India
+Leh,Mountain,Summer,Family,"Trekking,Adventure",22090,Short,Asthma,4,India
+Ooty,Hill/Beach,Winter,Family,"Relaxation,Trekking",21398,Long,None,4,India
+Paris,City,Summer,Friends,"Sightseeing,Culture",6228,Long,Asthma,1,Other
+Paris,City,Summer,Family,"Sightseeing,Culture",9093,Short,None,3,Other
+Ooty,Hill/Beach,Winter,Solo,"Relaxation,Trekking",20458,Short,None,3,India
+Dubai,City,Winter,Solo,"Shopping,Adventure",4778,Short,None,3,Other
+Manali,Mountain,Winter,Solo,"Trekking,Adventure",21431,Long,Asthma,2,India
+Ooty,Hill/Beach,Winter,Couple,"Relaxation,Trekking",23946,Long,None,1,India
+Leh,Mountain,Summer,Family,"Trekking,Adventure",15449,Short,None,3,India
+Dubai,City,Winter,Friends,"Shopping,Adventure",8012,Long,None,2,Other
+Leh,Mountain,Summer,Friends,"Trekking,Adventure",24108,Long,Heart Issues,6,India
+Manali,Mountain,Winter,Couple,"Trekking,Adventure",15713,Long,None,6,India
+London,City,Winter,Solo,"Culture,Sightseeing",18414,Long,Asthma,4,Other
+London,City,Winter,Couple,"Culture,Sightseeing",3862,Long,Heart Issues,1,Other
+London,City,Winter,Family,"Culture,Sightseeing",12405,Long,Asthma,3,Other
+Manali,Mountain,Winter,Friends,"Trekking,Adventure",11239,Long,Asthma,6,India
+Paris,City,Summer,Family,"Sightseeing,Culture",4509,Long,Asthma,5,Other
+Kerala,Hill/Beach,Monsoon,Solo,"Houseboat,Relaxation",5478,Short,Asthma,2,India
+Leh,Mountain,Summer,Family,"Trekking,Adventure",18102,Short,None,6,India
+Manali,Mountain,Winter,Couple,"Trekking,Adventure",14984,Short,Heart Issues,3,India
+Hampi,Historical,Winter,Family,"Sightseeing,Photography",17878,Long,Heart Issues,3,India
+Singapore,City,Summer,Couple,"Shopping,ThemePark",20963,Long,Asthma,3,Other
+Hampi,Historical,Winter,Family,"Sightseeing,Photography",22707,Short,None,5,India
+Goa,Beach,Summer,Solo,"Beach,Party,Relaxation",19003,Short,Asthma,3,India
+Hampi,Historical,Winter,Couple,"Sightseeing,Photography",13974,Short,Asthma,2,India
+London,City,Winter,Family,"Culture,Sightseeing",15319,Short,Heart Issues,2,Other
+Paris,City,Summer,Couple,"Sightseeing,Culture",21449,Short,Heart Issues,4,Other
+London,City,Winter,Family,"Culture,Sightseeing",22499,Short,Heart Issues,6,Other
+Dubai,City,Winter,Couple,"Shopping,Adventure",7008,Long,Heart Issues,5,Other
+Manali,Mountain,Winter,Family,"Trekking,Adventure",21762,Long,None,5,India
+Dubai,City,Winter,Solo,"Shopping,Adventure",19008,Long,Heart Issues,1,Other
+Dubai,City,Winter,Friends,"Shopping,Adventure",20922,Long,Asthma,5,Other
+Paris,City,Summer,Solo,"Sightseeing,Culture",11583,Long,Asthma,4,Other
+Goa,Beach,Summer,Solo,"Beach,Party,Relaxation",18798,Long,None,4,India
+Dubai,City,Winter,Couple,"Shopping,Adventure",20505,Long,None,5,Other
+London,City,Winter,Solo,"Culture,Sightseeing",8084,Short,None,3,Other
+Leh,Mountain,Summer,Family,"Trekking,Adventure",23988,Short,None,5,India
+Kerala,Hill/Beach,Monsoon,Solo,"Houseboat,Relaxation",7609,Short,None,3,India
+Manali,Mountain,Winter,Family,"Trekking,Adventure",22936,Short,Heart Issues,6,India
+Goa,Beach,Summer,Couple,"Beach,Party,Relaxation",11250,Short,None,5,India
+Hampi,Historical,Winter,Friends,"Sightseeing,Photography",12218,Short,Asthma,4,India
+Goa,Beach,Summer,Friends,"Beach,Party,Relaxation",4681,Short,None,6,India
+Leh,Mountain,Summer,Solo,"Trekking,Adventure",24392,Long,None,1,India
+Kerala,Hill/Beach,Monsoon,Family,"Houseboat,Relaxation",24653,Short,Heart Issues,2,India
+Kerala,Hill/Beach,Monsoon,Couple,"Houseboat,Relaxation",10409,Short,Heart Issues,6,India
+Dubai,City,Winter,Solo,"Shopping,Adventure",23353,Short,Asthma,1,Other
+London,City,Winter,Couple,"Culture,Sightseeing",20213,Short,Heart Issues,3,Other
+London,City,Winter,Friends,"Culture,Sightseeing",14299,Long,Asthma,3,Other
+Singapore,City,Summer,Solo,"Shopping,ThemePark",17198,Long,None,2,Other
+Ooty,Hill/Beach,Winter,Solo,"Relaxation,Trekking",20638,Long,None,6,India
+Hampi,Historical,Winter,Solo,"Sightseeing,Photography",4860,Short,Heart Issues,5,India
+Singapore,City,Summer,Couple,"Shopping,ThemePark",15970,Short,Asthma,6,Other
+Kerala,Hill/Beach,Monsoon,Couple,"Houseboat,Relaxation",21801,Short,Asthma,3,India
+Dubai,City,Winter,Family,"Shopping,Adventure",22697,Short,Heart Issues,6,Other
+Manali,Mountain,Winter,Friends,"Trekking,Adventure",21673,Short,Asthma,4,India
+Paris,City,Summer,Friends,"Sightseeing,Culture",6995,Short,Heart Issues,6,Other
+Dubai,City,Winter,Family,"Shopping,Adventure",22087,Short,Heart Issues,2,Other
+Manali,Mountain,Winter,Family,"Trekking,Adventure",10425,Long,Heart Issues,1,India
+Goa,Beach,Summer,Family,"Beach,Party,Relaxation",18300,Long,Heart Issues,2,India
+Leh,Mountain,Summer,Friends,"Trekking,Adventure",23014,Long,None,5,India
+Hampi,Historical,Winter,Friends,"Sightseeing,Photography",11061,Long,Asthma,6,India
+Hampi,Historical,Winter,Friends,"Sightseeing,Photography",3618,Long,None,6,India
+Paris,City,Summer,Family,"Sightseeing,Culture",10692,Short,Asthma,2,Other
+Manali,Mountain,Winter,Solo,"Trekking,Adventure",9607,Long,Asthma,2,India
+Hampi,Historical,Winter,Friends,"Sightseeing,Photography",24934,Long,Heart Issues,5,India
+Paris,City,Summer,Family,"Sightseeing,Culture",15772,Long,None,4,Other
+Paris,City,Summer,Solo,"Sightseeing,Culture",17808,Short,Heart Issues,5,Other
+Kerala,Hill/Beach,Monsoon,Solo,"Houseboat,Relaxation",11102,Short,None,3,India
+Ooty,Hill/Beach,Winter,Solo,"Relaxation,Trekking",17222,Long,Asthma,5,India
+Ooty,Hill/Beach,Winter,Couple,"Relaxation,Trekking",5889,Short,Heart Issues,4,India
+Ooty,Hill/Beach,Winter,Couple,"Relaxation,Trekking",15501,Long,Asthma,2,India
+Paris,City,Summer,Couple,"Sightseeing,Culture",22884,Short,Heart Issues,3,Other
+Dubai,City,Winter,Friends,"Shopping,Adventure",7878,Short,Heart Issues,5,Other
+Manali,Mountain,Winter,Friends,"Trekking,Adventure",23576,Long,Asthma,3,India
+Dubai,City,Winter,Solo,"Shopping,Adventure",4277,Short,Heart Issues,6,Other
+Dubai,City,Winter,Solo,"Shopping,Adventure",14878,Long,None,5,Other
+Goa,Beach,Summer,Solo,"Beach,Party,Relaxation",16473,Long,None,4,India
+Hampi,Historical,Winter,Family,"Sightseeing,Photography",22039,Long,Heart Issues,6,India
+Ooty,Hill/Beach,Winter,Family,"Relaxation,Trekking",21919,Long,Asthma,6,India
+London,City,Winter,Couple,"Culture,Sightseeing",19820,Short,Heart Issues,4,Other
+Paris,City,Summer,Friends,"Sightseeing,Culture",20726,Short,Asthma,1,Other
+London,City,Winter,Solo,"Culture,Sightseeing",3921,Short,Heart Issues,3,Other
+Hampi,Historical,Winter,Family,"Sightseeing,Photography",18413,Short,None,5,India
+Hampi,Historical,Winter,Couple,"Sightseeing,Photography",5683,Short,Heart Issues,6,India
+Manali,Mountain,Winter,Friends,"Trekking,Adventure",20472,Short,Asthma,4,India
+Ooty,Hill/Beach,Winter,Family,"Relaxation,Trekking",11257,Short,None,6,India
+Dubai,City,Winter,Solo,"Shopping,Adventure",11106,Short,Heart Issues,1,Other
+Paris,City,Summer,Friends,"Sightseeing,Culture",7650,Short,Heart Issues,4,Other
+Goa,Beach,Summer,Solo,"Beach,Party,Relaxation",20314,Short,None,5,India
+Manali,Mountain,Winter,Family,"Trekking,Adventure",24419,Long,Heart Issues,4,India
+London,City,Winter,Family,"Culture,Sightseeing",22662,Short,Asthma,4,Other
+Paris,City,Summer,Solo,"Sightseeing,Culture",24114,Short,None,1,Other
+London,City,Winter,Family,"Culture,Sightseeing",20725,Long,None,2,Other
+Leh,Mountain,Summer,Friends,"Trekking,Adventure",23691,Short,None,3,India
+London,City,Winter,Solo,"Culture,Sightseeing",13299,Long,None,3,Other
+Dubai,City,Winter,Friends,"Shopping,Adventure",16809,Long,Heart Issues,2,Other
+Kerala,Hill/Beach,Monsoon,Solo,"Houseboat,Relaxation",24672,Long,Heart Issues,6,India
+Hampi,Historical,Winter,Solo,"Sightseeing,Photography",10271,Long,Heart Issues,4,India
+Paris,City,Summer,Friends,"Sightseeing,Culture",8611,Long,Heart Issues,4,Other
+Leh,Mountain,Summer,Family,"Trekking,Adventure",12176,Long,Heart Issues,5,India
+London,City,Winter,Solo,"Culture,Sightseeing",10377,Long,Asthma,4,Other
+Dubai,City,Winter,Couple,"Shopping,Adventure",12403,Short,Heart Issues,6,Other
+Paris,City,Summer,Couple,"Sightseeing,Culture",8275,Short,None,3,Other
+Hampi,Historical,Winter,Solo,"Sightseeing,Photography",11267,Long,Asthma,4,India
+Singapore,City,Summer,Family,"Shopping,ThemePark",9128,Long,Asthma,4,Other
+Kerala,Hill/Beach,Monsoon,Couple,"Houseboat,Relaxation",6706,Short,Asthma,3,India
+Kerala,Hill/Beach,Monsoon,Solo,"Houseboat,Relaxation",20670,Short,None,4,India
+Hampi,Historical,Winter,Family,"Sightseeing,Photography",20495,Long,Asthma,5,India
+Manali,Mountain,Winter,Couple,"Trekking,Adventure",18351,Long,Heart Issues,1,India
+Dubai,City,Winter,Couple,"Shopping,Adventure",17315,Short,None,1,Other
+London,City,Winter,Solo,"Culture,Sightseeing",11633,Long,Heart Issues,5,Other
+Goa,Beach,Summer,Solo,"Beach,Party,Relaxation",4739,Long,None,6,India
+London,City,Winter,Friends,"Culture,Sightseeing",5557,Short,None,1,Other
+Kerala,Hill/Beach,Monsoon,Friends,"Houseboat,Relaxation",5163,Short,Heart Issues,5,India
+Manali,Mountain,Winter,Family,"Trekking,Adventure",14300,Long,Heart Issues,5,India
+Singapore,City,Summer,Solo,"Shopping,ThemePark",21334,Short,Asthma,4,Other
+Leh,Mountain,Summer,Family,"Trekking,Adventure",23782,Long,Asthma,6,India
+Kerala,Hill/Beach,Monsoon,Couple,"Houseboat,Relaxation",13272,Short,None,6,India
+Leh,Mountain,Summer,Solo,"Trekking,Adventure",11327,Long,None,6,India
+Dubai,City,Winter,Solo,"Shopping,Adventure",19999,Long,Asthma,2,Other
+Dubai,City,Winter,Solo,"Shopping,Adventure",23727,Short,Asthma,4,Other
+Manali,Mountain,Winter,Friends,"Trekking,Adventure",9302,Long,None,3,India
+Paris,City,Summer,Couple,"Sightseeing,Culture",11090,Long,Heart Issues,2,Other
+Singapore,City,Summer,Family,"Shopping,ThemePark",8661,Short,Asthma,6,Other
+Goa,Beach,Summer,Couple,"Beach,Party,Relaxation",23799,Long,None,5,India
+Ooty,Hill/Beach,Winter,Couple,"Relaxation,Trekking",17517,Short,None,3,India
+Goa,Beach,Summer,Friends,"Beach,Party,Relaxation",6049,Short,Asthma,5,India
+Leh,Mountain,Summer,Couple,"Trekking,Adventure",13835,Long,None,4,India
+Singapore,City,Summer,Couple,"Shopping,ThemePark",22805,Long,None,3,Other
+Kerala,Hill/Beach,Monsoon,Solo,"Houseboat,Relaxation",15890,Long,Asthma,6,India
+Leh,Mountain,Summer,Couple,"Trekking,Adventure",12526,Long,Asthma,6,India
+Singapore,City,Summer,Couple,"Shopping,ThemePark",10132,Short,Heart Issues,1,Other
+Manali,Mountain,Winter,Family,"Trekking,Adventure",22766,Short,None,1,India
+Manali,Mountain,Winter,Family,"Trekking,Adventure",19004,Short,Asthma,5,India
+Goa,Beach,Summer,Friends,"Beach,Party,Relaxation",21369,Long,Heart Issues,6,India
+Singapore,City,Summer,Solo,"Shopping,ThemePark",19948,Short,Asthma,3,Other
+Manali,Mountain,Winter,Couple,"Trekking,Adventure",13347,Long,Asthma,6,India
+London,City,Winter,Friends,"Culture,Sightseeing",9715,Short,None,1,Other
+Goa,Beach,Summer,Friends,"Beach,Party,Relaxation",14331,Short,Heart Issues,5,India
+Singapore,City,Summer,Friends,"Shopping,ThemePark",3365,Short,Heart Issues,1,Other
+Paris,City,Summer,Solo,"Sightseeing,Culture",18249,Short,None,6,Other
+Goa,Beach,Summer,Couple,"Beach,Party,Relaxation",15072,Long,Asthma,2,India
+Singapore,City,Summer,Friends,"Shopping,ThemePark",14179,Short,Asthma,4,Other
+Kerala,Hill/Beach,Monsoon,Family,"Houseboat,Relaxation",9052,Short,Asthma,3,India
+Kerala,Hill/Beach,Monsoon,Family,"Houseboat,Relaxation",6399,Short,None,2,India
+London,City,Winter,Couple,"Culture,Sightseeing",18376,Long,Asthma,3,Other
+Dubai,City,Winter,Friends,"Shopping,Adventure",14321,Long,Heart Issues,1,Other
+Kerala,Hill/Beach,Monsoon,Couple,"Houseboat,Relaxation",5676,Short,Asthma,3,India
+Hampi,Historical,Winter,Family,"Sightseeing,Photography",8709,Long,Asthma,1,India
+Singapore,City,Summer,Solo,"Shopping,ThemePark",7899,Long,Heart Issues,1,Other
+Leh,Mountain,Summer,Solo,"Trekking,Adventure",15614,Short,Asthma,5,India
+London,City,Winter,Solo,"Culture,Sightseeing",16178,Short,Asthma,3,Other
+Kerala,Hill/Beach,Monsoon,Couple,"Houseboat,Relaxation",5378,Short,Asthma,6,India
+London,City,Winter,Family,"Culture,Sightseeing",8014,Short,Asthma,6,Other
+Kerala,Hill/Beach,Monsoon,Family,"Houseboat,Relaxation",22492,Short,None,6,India
+Singapore,City,Summer,Family,"Shopping,ThemePark",12338,Short,Asthma,5,Other
+Goa,Beach,Summer,Couple,"Beach,Party,Relaxation",12862,Long,Asthma,3,India
+Leh,Mountain,Summer,Couple,"Trekking,Adventure",19539,Long,Heart Issues,5,India
+Goa,Beach,Summer,Solo,"Beach,Party,Relaxation",9314,Short,Heart Issues,3,India
+Singapore,City,Summer,Family,"Shopping,ThemePark",17079,Short,Asthma,2,Other
+Dubai,City,Winter,Solo,"Shopping,Adventure",12329,Long,Asthma,5,Other
+Leh,Mountain,Summer,Friends,"Trekking,Adventure",22682,Short,Asthma,4,India
+Singapore,City,Summer,Solo,"Shopping,ThemePark",4434,Long,None,3,Other
+Dubai,City,Winter,Friends,"Shopping,Adventure",6323,Short,None,2,Other
+Kerala,Hill/Beach,Monsoon,Solo,"Houseboat,Relaxation",21580,Short,Asthma,1,India
+Singapore,City,Summer,Solo,"Shopping,ThemePark",16763,Long,None,2,Other
+Dubai,City,Winter,Couple,"Shopping,Adventure",17030,Long,Heart Issues,3,Other
+Singapore,City,Summer,Friends,"Shopping,ThemePark",19485,Short,Heart Issues,5,Other
+Dubai,City,Winter,Family,"Shopping,Adventure",21703,Short,None,1,Other
+Hampi,Historical,Winter,Couple,"Sightseeing,Photography",21533,Long,Heart Issues,4,India
+Leh,Mountain,Summer,Couple,"Trekking,Adventure",3642,Short,Asthma,4,India
+Leh,Mountain,Summer,Couple,"Trekking,Adventure",9777,Short,Heart Issues,4,India
+Kerala,Hill/Beach,Monsoon,Couple,"Houseboat,Relaxation",7062,Short,Asthma,2,India
+Goa,Beach,Summer,Friends,"Beach,Party,Relaxation",14494,Short,Heart Issues,3,India
+Goa,Beach,Summer,Friends,"Beach,Party,Relaxation",5543,Long,Heart Issues,2,India
+Goa,Beach,Summer,Family,"Beach,Party,Relaxation",3807,Long,Heart Issues,2,India
+London,City,Winter,Family,"Culture,Sightseeing",4516,Long,Asthma,2,Other
+London,City,Winter,Family,"Culture,Sightseeing",14966,Long,None,4,Other
+Manali,Mountain,Winter,Solo,"Trekking,Adventure",10610,Long,Heart Issues,1,India
+Goa,Beach,Summer,Family,"Beach,Party,Relaxation",19507,Short,Heart Issues,6,India
+London,City,Winter,Couple,"Culture,Sightseeing",16421,Long,Heart Issues,3,Other
+London,City,Winter,Friends,"Culture,Sightseeing",14585,Short,None,1,Other
+Paris,City,Summer,Friends,"Sightseeing,Culture",17565,Long,Heart Issues,5,Other
+London,City,Winter,Friends,"Culture,Sightseeing",4361,Short,None,5,Other
+Leh,Mountain,Summer,Family,"Trekking,Adventure",4446,Long,Heart Issues,4,India
+Singapore,City,Summer,Solo,"Shopping,ThemePark",10417,Long,None,4,Other
+Goa,Beach,Summer,Friends,"Beach,Party,Relaxation",15728,Long,Heart Issues,4,India
+Goa,Beach,Summer,Friends,"Beach,Party,Relaxation",17110,Short,Heart Issues,5,India
+Leh,Mountain,Summer,Friends,"Trekking,Adventure",20261,Short,None,1,India
+London,City,Winter,Family,"Culture,Sightseeing",6348,Long,None,3,Other
+Dubai,City,Winter,Solo,"Shopping,Adventure",16182,Short,Asthma,6,Other
+Hampi,Historical,Winter,Friends,"Sightseeing,Photography",3891,Short,Asthma,1,India
+Dubai,City,Winter,Family,"Shopping,Adventure",12681,Short,Asthma,4,Other
+Hampi,Historical,Winter,Family,"Sightseeing,Photography",9556,Short,None,4,India
+Dubai,City,Winter,Friends,"Shopping,Adventure",12501,Short,Heart Issues,6,Other
+Leh,Mountain,Summer,Family,"Trekking,Adventure",24161,Long,None,5,India
+Ooty,Hill/Beach,Winter,Couple,"Relaxation,Trekking",4506,Long,Heart Issues,3,India
+Ooty,Hill/Beach,Winter,Friends,"Relaxation,Trekking",23849,Long,None,1,India
+Leh,Mountain,Summer,Family,"Trekking,Adventure",24453,Short,Asthma,2,India
+Paris,City,Summer,Family,"Sightseeing,Culture",11330,Short,Asthma,5,Other
+Ooty,Hill/Beach,Winter,Couple,"Relaxation,Trekking",10096,Long,Heart Issues,4,India
+Kerala,Hill/Beach,Monsoon,Couple,"Houseboat,Relaxation",16954,Long,Heart Issues,3,India
+Manali,Mountain,Winter,Friends,"Trekking,Adventure",21241,Short,Asthma,1,India
+Kerala,Hill/Beach,Monsoon,Solo,"Houseboat,Relaxation",18411,Short,None,2,India
+Dubai,City,Winter,Solo,"Shopping,Adventure",10727,Short,Asthma,1,Other
+Paris,City,Summer,Friends,"Sightseeing,Culture",24217,Short,Asthma,6,Other
+Manali,Mountain,Winter,Couple,"Trekking,Adventure",13599,Long,Heart Issues,5,India
+Leh,Mountain,Summer,Solo,"Trekking,Adventure",19549,Long,Asthma,3,India
+Ooty,Hill/Beach,Winter,Family,"Relaxation,Trekking",21463,Long,None,1,India
+Paris,City,Summer,Solo,"Sightseeing,Culture",11094,Short,Heart Issues,2,Other
+Paris,City,Summer,Solo,"Sightseeing,Culture",14886,Short,Asthma,4,Other
+Dubai,City,Winter,Couple,"Shopping,Adventure",8482,Short,Heart Issues,4,Other
+Hampi,Historical,Winter,Couple,"Sightseeing,Photography",10194,Long,None,4,India
+Kerala,Hill/Beach,Monsoon,Family,"Houseboat,Relaxation",15686,Short,None,2,India
+Singapore,City,Summer,Solo,"Shopping,ThemePark",3762,Long,Asthma,6,Other
+Leh,Mountain,Summer,Couple,"Trekking,Adventure",23084,Short,None,1,India
+Singapore,City,Summer,Family,"Shopping,ThemePark",19374,Long,Asthma,4,Other
+Singapore,City,Summer,Friends,"Shopping,ThemePark",9349,Short,Heart Issues,4,Other
+Kerala,Hill/Beach,Monsoon,Couple,"Houseboat,Relaxation",19498,Short,Asthma,4,India
+Singapore,City,Summer,Solo,"Shopping,ThemePark",5525,Long,Heart Issues,4,Other
+Paris,City,Summer,Couple,"Sightseeing,Culture",5767,Long,Heart Issues,4,Other
+Hampi,Historical,Winter,Family,"Sightseeing,Photography",15693,Long,Asthma,2,India
+Manali,Mountain,Winter,Family,"Trekking,Adventure",16376,Long,None,5,India
+Dubai,City,Winter,Solo,"Shopping,Adventure",19324,Long,Asthma,3,Other
+Goa,Beach,Summer,Friends,"Beach,Party,Relaxation",21594,Short,Asthma,1,India
+Paris,City,Summer,Family,"Sightseeing,Culture",15754,Long,None,1,Other
+London,City,Winter,Solo,"Culture,Sightseeing",22687,Long,None,2,Other
+Dubai,City,Winter,Couple,"Shopping,Adventure",24723,Short,Asthma,2,Other
+Manali,Mountain,Winter,Couple,"Trekking,Adventure",5481,Long,Heart Issues,3,India
+Manali,Mountain,Winter,Solo,"Trekking,Adventure",8050,Long,None,6,India
+Goa,Beach,Summer,Friends,"Beach,Party,Relaxation",8127,Short,None,3,India
+Leh,Mountain,Summer,Solo,"Trekking,Adventure",22772,Long,None,4,India
+Ooty,Hill/Beach,Winter,Friends,"Relaxation,Trekking",17182,Long,Asthma,2,India
+Ooty,Hill/Beach,Winter,Family,"Relaxation,Trekking",3337,Long,Asthma,1,India
+Leh,Mountain,Summer,Couple,"Trekking,Adventure",19607,Short,None,1,India
+Kerala,Hill/Beach,Monsoon,Friends,"Houseboat,Relaxation",4429,Short,Asthma,2,India
+Hampi,Historical,Winter,Friends,"Sightseeing,Photography",9251,Long,Asthma,4,India
+Manali,Mountain,Winter,Friends,"Trekking,Adventure",4516,Long,None,1,India
+Ooty,Hill/Beach,Winter,Family,"Relaxation,Trekking",3474,Short,Heart Issues,1,India
+Leh,Mountain,Summer,Friends,"Trekking,Adventure",14927,Long,Asthma,1,India
+Singapore,City,Summer,Family,"Shopping,ThemePark",15702,Short,Heart Issues,3,Other
+Ooty,Hill/Beach,Winter,Couple,"Relaxation,Trekking",20858,Short,Asthma,2,India
+Goa,Beach,Summer,Friends,"Beach,Party,Relaxation",6591,Short,None,6,India
+Singapore,City,Summer,Family,"Shopping,ThemePark",3893,Short,None,2,Other
+Hampi,Historical,Winter,Friends,"Sightseeing,Photography",6769,Long,Heart Issues,4,India
+Kerala,Hill/Beach,Monsoon,Family,"Houseboat,Relaxation",4252,Long,Heart Issues,3,India
+Singapore,City,Summer,Couple,"Shopping,ThemePark",13460,Long,Asthma,6,Other
+Ooty,Hill/Beach,Winter,Friends,"Relaxation,Trekking",16800,Long,Heart Issues,5,India
+Kerala,Hill/Beach,Monsoon,Friends,"Houseboat,Relaxation",9342,Short,Asthma,4,India
+Kerala,Hill/Beach,Monsoon,Friends,"Houseboat,Relaxation",8247,Long,Asthma,4,India
+Manali,Mountain,Winter,Solo,"Trekking,Adventure",21942,Long,Asthma,6,India
+Hampi,Historical,Winter,Couple,"Sightseeing,Photography",14907,Short,Heart Issues,6,India
+London,City,Winter,Solo,"Culture,Sightseeing",3695,Long,Heart Issues,4,Other
+London,City,Winter,Solo,"Culture,Sightseeing",3015,Long,Heart Issues,2,Other
+Leh,Mountain,Summer,Solo,"Trekking,Adventure",3852,Short,Heart Issues,5,India
+Goa,Beach,Summer,Family,"Beach,Party,Relaxation",14336,Long,Heart Issues,2,India
+Manali,Mountain,Winter,Couple,"Trekking,Adventure",19063,Short,Heart Issues,1,India
+Manali,Mountain,Winter,Family,"Trekking,Adventure",16047,Short,Heart Issues,4,India
+Goa,Beach,Summer,Couple,"Beach,Party,Relaxation",18456,Short,Asthma,6,India
+Manali,Mountain,Winter,Couple,"Trekking,Adventure",19464,Short,Heart Issues,1,India
+Kerala,Hill/Beach,Monsoon,Couple,"Houseboat,Relaxation",9431,Long,Heart Issues,5,India
+Hampi,Historical,Winter,Family,"Sightseeing,Photography",14339,Short,Heart Issues,3,India
+Leh,Mountain,Summer,Family,"Trekking,Adventure",19520,Long,Asthma,3,India
+Goa,Beach,Summer,Solo,"Beach,Party,Relaxation",19000,Short,Asthma,4,India
+Dubai,City,Winter,Couple,"Shopping,Adventure",6108,Short,None,4,Other
+Singapore,City,Summer,Couple,"Shopping,ThemePark",24124,Short,Heart Issues,6,Other
+Ooty,Hill/Beach,Winter,Solo,"Relaxation,Trekking",15968,Long,Heart Issues,5,India
+Goa,Beach,Summer,Friends,"Beach,Party,Relaxation",5443,Long,Asthma,4,India
+Leh,Mountain,Summer,Couple,"Trekking,Adventure",13172,Long,None,6,India
+Goa,Beach,Summer,Family,"Beach,Party,Relaxation",12210,Long,Heart Issues,5,India
+Hampi,Historical,Winter,Solo,"Sightseeing,Photography",17389,Long,Asthma,6,India
+Paris,City,Summer,Family,"Sightseeing,Culture",4625,Long,Asthma,2,Other
+Hampi,Historical,Winter,Solo,"Sightseeing,Photography",24761,Long,None,3,India
+Leh,Mountain,Summer,Couple,"Trekking,Adventure",12857,Short,None,6,India
+Ooty,Hill/Beach,Winter,Solo,"Relaxation,Trekking",3101,Long,Asthma,5,India
+Ooty,Hill/Beach,Winter,Couple,"Relaxation,Trekking",8363,Short,None,1,India
+Ooty,Hill/Beach,Winter,Family,"Relaxation,Trekking",18314,Long,Asthma,2,India
+Manali,Mountain,Winter,Solo,"Trekking,Adventure",18353,Long,None,4,India
+Paris,City,Summer,Friends,"Sightseeing,Culture",19205,Long,Heart Issues,3,Other
+Ooty,Hill/Beach,Winter,Solo,"Relaxation,Trekking",5982,Long,Asthma,3,India
+Leh,Mountain,Summer,Solo,"Trekking,Adventure",19037,Long,Asthma,5,India
+Dubai,City,Winter,Couple,"Shopping,Adventure",13513,Long,Asthma,6,Other
+Kerala,Hill/Beach,Monsoon,Solo,"Houseboat,Relaxation",6564,Long,Heart Issues,4,India
+Dubai,City,Winter,Couple,"Shopping,Adventure",20738,Long,Heart Issues,5,Other
+Goa,Beach,Summer,Family,"Beach,Party,Relaxation",20819,Long,Heart Issues,5,India
+Manali,Mountain,Winter,Solo,"Trekking,Adventure",21037,Long,Heart Issues,4,India
+Ooty,Hill/Beach,Winter,Solo,"Relaxation,Trekking",3691,Short,Asthma,1,India
+Singapore,City,Summer,Couple,"Shopping,ThemePark",21057,Short,Heart Issues,3,Other
+Singapore,City,Summer,Friends,"Shopping,ThemePark",7270,Long,Heart Issues,2,Other
+Kerala,Hill/Beach,Monsoon,Couple,"Houseboat,Relaxation",17948,Long,Heart Issues,4,India
+Hampi,Historical,Winter,Solo,"Sightseeing,Photography",9240,Long,None,4,India
+Leh,Mountain,Summer,Family,"Trekking,Adventure",12171,Short,Heart Issues,4,India
+Kerala,Hill/Beach,Monsoon,Solo,"Houseboat,Relaxation",8453,Long,Asthma,6,India
+Dubai,City,Winter,Solo,"Shopping,Adventure",5479,Short,None,4,Other
+Paris,City,Summer,Couple,"Sightseeing,Culture",8150,Short,None,6,Other
+Ooty,Hill/Beach,Winter,Couple,"Relaxation,Trekking",15183,Long,Asthma,3,India
+Paris,City,Summer,Couple,"Sightseeing,Culture",23092,Short,None,2,Other
+Leh,Mountain,Summer,Family,"Trekking,Adventure",4336,Long,Asthma,3,India
+London,City,Winter,Family,"Culture,Sightseeing",8254,Long,Heart Issues,2,Other
+Ooty,Hill/Beach,Winter,Family,"Relaxation,Trekking",12188,Short,Heart Issues,5,India
+Manali,Mountain,Winter,Couple,"Trekking,Adventure",20406,Short,Heart Issues,2,India
+Hampi,Historical,Winter,Solo,"Sightseeing,Photography",13061,Long,Heart Issues,4,India
+Paris,City,Summer,Couple,"Sightseeing,Culture",9909,Long,None,1,Other
+Kerala,Hill/Beach,Monsoon,Family,"Houseboat,Relaxation",18626,Short,Heart Issues,5,India
+London,City,Winter,Solo,"Culture,Sightseeing",22334,Long,Heart Issues,3,Other
+Singapore,City,Summer,Family,"Shopping,ThemePark",22879,Long,None,5,Other
+Hampi,Historical,Winter,Couple,"Sightseeing,Photography",11798,Short,Heart Issues,1,India
+Ooty,Hill/Beach,Winter,Friends,"Relaxation,Trekking",23544,Long,Asthma,1,India
+London,City,Winter,Couple,"Culture,Sightseeing",4474,Short,Heart Issues,6,Other
+Goa,Beach,Summer,Family,"Beach,Party,Relaxation",13925,Long,Heart Issues,5,India
+Goa,Beach,Summer,Couple,"Beach,Party,Relaxation",11492,Long,Asthma,1,India
+Leh,Mountain,Summer,Family,"Trekking,Adventure",21898,Short,Heart Issues,6,India
+Paris,City,Summer,Couple,"Sightseeing,Culture",18673,Short,None,5,Other
+Hampi,Historical,Winter,Couple,"Sightseeing,Photography",19840,Short,Heart Issues,1,India
+Leh,Mountain,Summer,Friends,"Trekking,Adventure",4976,Long,None,5,India
+London,City,Winter,Friends,"Culture,Sightseeing",20939,Long,Asthma,6,Other
+Leh,Mountain,Summer,Solo,"Trekking,Adventure",10031,Long,Heart Issues,2,India
+Dubai,City,Winter,Friends,"Shopping,Adventure",7949,Long,Asthma,3,Other
+Hampi,Historical,Winter,Couple,"Sightseeing,Photography",15574,Long,None,6,India
+Manali,Mountain,Winter,Friends,"Trekking,Adventure",12161,Long,Heart Issues,1,India
+Ooty,Hill/Beach,Winter,Family,"Relaxation,Trekking",19990,Long,Asthma,4,India
+Singapore,City,Summer,Friends,"Shopping,ThemePark",14368,Short,Heart Issues,5,Other
+Dubai,City,Winter,Family,"Shopping,Adventure",5819,Long,None,6,Other
+Leh,Mountain,Summer,Friends,"Trekking,Adventure",14567,Long,Asthma,5,India
+Dubai,City,Winter,Family,"Shopping,Adventure",4702,Short,None,3,Other
+Leh,Mountain,Summer,Solo,"Trekking,Adventure",24210,Short,None,2,India
+London,City,Winter,Family,"Culture,Sightseeing",9776,Long,None,2,Other
+Paris,City,Summer,Friends,"Sightseeing,Culture",20853,Long,None,4,Other
+Manali,Mountain,Winter,Solo,"Trekking,Adventure",24830,Short,Heart Issues,6,India
+Hampi,Historical,Winter,Couple,"Sightseeing,Photography",18020,Long,Asthma,4,India
+London,City,Winter,Couple,"Culture,Sightseeing",12130,Long,None,6,Other
+Singapore,City,Summer,Friends,"Shopping,ThemePark",5398,Short,Asthma,4,Other
+Dubai,City,Winter,Family,"Shopping,Adventure",18239,Short,Asthma,5,Other
+Leh,Mountain,Summer,Friends,"Trekking,Adventure",3572,Long,None,2,India
+Paris,City,Summer,Family,"Sightseeing,Culture",22544,Short,Heart Issues,5,Other
+Paris,City,Summer,Friends,"Sightseeing,Culture",6622,Long,Heart Issues,5,Other
+Singapore,City,Summer,Solo,"Shopping,ThemePark",22127,Short,Heart Issues,6,Other
+London,City,Winter,Friends,"Culture,Sightseeing",23430,Long,None,4,Other
+Manali,Mountain,Winter,Couple,"Trekking,Adventure",14728,Long,Heart Issues,5,India
+Kerala,Hill/Beach,Monsoon,Family,"Houseboat,Relaxation",21353,Short,Asthma,1,India
+London,City,Winter,Family,"Culture,Sightseeing",16070,Long,None,5,Other
+Singapore,City,Summer,Couple,"Shopping,ThemePark",3484,Long,Asthma,2,Other
+Dubai,City,Winter,Solo,"Shopping,Adventure",13877,Long,Asthma,6,Other
+Paris,City,Summer,Solo,"Sightseeing,Culture",22926,Long,None,5,Other
+Goa,Beach,Summer,Family,"Beach,Party,Relaxation",22801,Long,Heart Issues,3,India
+Manali,Mountain,Winter,Family,"Trekking,Adventure",12250,Long,Heart Issues,5,India
+Hampi,Historical,Winter,Family,"Sightseeing,Photography",18260,Short,Asthma,4,India
+Goa,Beach,Summer,Couple,"Beach,Party,Relaxation",13207,Short,None,2,India
+Manali,Mountain,Winter,Family,"Trekking,Adventure",24790,Long,Asthma,1,India
+London,City,Winter,Family,"Culture,Sightseeing",19605,Short,None,1,Other
+Leh,Mountain,Summer,Family,"Trekking,Adventure",8539,Long,Asthma,4,India
+Hampi,Historical,Winter,Couple,"Sightseeing,Photography",3031,Long,Asthma,6,India
+Ooty,Hill/Beach,Winter,Friends,"Relaxation,Trekking",23823,Short,Asthma,4,India
+Kerala,Hill/Beach,Monsoon,Friends,"Houseboat,Relaxation",24387,Short,None,3,India
+Dubai,City,Winter,Couple,"Shopping,Adventure",5632,Short,Heart Issues,4,Other
+Manali,Mountain,Winter,Couple,"Trekking,Adventure",23642,Long,Heart Issues,1,India
+Singapore,City,Summer,Friends,"Shopping,ThemePark",20083,Long,None,3,Other
+Hampi,Historical,Winter,Friends,"Sightseeing,Photography",5670,Short,Asthma,1,India
+Dubai,City,Winter,Friends,"Shopping,Adventure",17057,Long,None,5,Other
+Goa,Beach,Summer,Friends,"Beach,Party,Relaxation",19660,Long,Asthma,3,India
+Dubai,City,Winter,Couple,"Shopping,Adventure",9627,Short,Asthma,4,Other
+Hampi,Historical,Winter,Friends,"Sightseeing,Photography",21103,Short,Heart Issues,6,India
+London,City,Winter,Friends,"Culture,Sightseeing",24078,Short,None,2,Other
+Ooty,Hill/Beach,Winter,Family,"Relaxation,Trekking",24521,Short,Asthma,4,India
+Dubai,City,Winter,Solo,"Shopping,Adventure",23736,Long,None,3,Other
+Singapore,City,Summer,Couple,"Shopping,ThemePark",22929,Short,Asthma,2,Other
+Manali,Mountain,Winter,Solo,"Trekking,Adventure",22923,Short,Asthma,4,India
+Paris,City,Summer,Friends,"Sightseeing,Culture",5644,Short,None,3,Other
+London,City,Winter,Solo,"Culture,Sightseeing",24455,Long,Heart Issues,4,Other
+Ooty,Hill/Beach,Winter,Friends,"Relaxation,Trekking",16461,Short,Heart Issues,2,India
+Paris,City,Summer,Friends,"Sightseeing,Culture",10154,Long,Heart Issues,4,Other
+Hampi,Historical,Winter,Friends,"Sightseeing,Photography",13174,Short,Asthma,6,India
+Manali,Mountain,Winter,Family,"Trekking,Adventure",4540,Short,Heart Issues,2,India
+Kerala,Hill/Beach,Monsoon,Friends,"Houseboat,Relaxation",5503,Short,Asthma,6,India
+Kerala,Hill/Beach,Monsoon,Friends,"Houseboat,Relaxation",21988,Short,None,4,India
+Manali,Mountain,Winter,Couple,"Trekking,Adventure",4561,Long,Heart Issues,6,India
+Kerala,Hill/Beach,Monsoon,Friends,"Houseboat,Relaxation",15538,Short,None,6,India
+Manali,Mountain,Winter,Solo,"Trekking,Adventure",19353,Short,Asthma,1,India
+Paris,City,Summer,Family,"Sightseeing,Culture",16357,Short,Asthma,3,Other
+London,City,Winter,Couple,"Culture,Sightseeing",5518,Short,Heart Issues,3,Other
+Leh,Mountain,Summer,Solo,"Trekking,Adventure",24306,Short,Asthma,6,India
+Paris,City,Summer,Solo,"Sightseeing,Culture",9506,Long,None,6,Other
+Ooty,Hill/Beach,Winter,Couple,"Relaxation,Trekking",20597,Short,Heart Issues,4,India
+Singapore,City,Summer,Friends,"Shopping,ThemePark",19340,Short,None,2,Other
+Leh,Mountain,Summer,Couple,"Trekking,Adventure",11100,Short,Asthma,1,India
+Ooty,Hill/Beach,Winter,Solo,"Relaxation,Trekking",8940,Long,None,2,India
+Dubai,City,Winter,Couple,"Shopping,Adventure",22137,Short,Asthma,1,Other
+Dubai,City,Winter,Family,"Shopping,Adventure",12942,Short,None,4,Other
+Kerala,Hill/Beach,Monsoon,Friends,"Houseboat,Relaxation",17027,Short,None,2,India
+Kerala,Hill/Beach,Monsoon,Solo,"Houseboat,Relaxation",9680,Long,Asthma,1,India
+London,City,Winter,Couple,"Culture,Sightseeing",6751,Short,None,1,Other
+Leh,Mountain,Summer,Friends,"Trekking,Adventure",20708,Long,Heart Issues,2,India
+London,City,Winter,Family,"Culture,Sightseeing",18836,Short,None,1,Other
+Hampi,Historical,Winter,Friends,"Sightseeing,Photography",6700,Short,Heart Issues,3,India
+Ooty,Hill/Beach,Winter,Friends,"Relaxation,Trekking",7349,Long,Heart Issues,5,India
+Dubai,City,Winter,Couple,"Shopping,Adventure",3546,Long,Heart Issues,1,Other
+Dubai,City,Winter,Solo,"Shopping,Adventure",19719,Long,None,6,Other
+Hampi,Historical,Winter,Couple,"Sightseeing,Photography",15755,Long,Asthma,3,India
+Goa,Beach,Summer,Family,"Beach,Party,Relaxation",21255,Short,None,1,India
+Singapore,City,Summer,Couple,"Shopping,ThemePark",14246,Long,Heart Issues,6,Other
+Singapore,City,Summer,Couple,"Shopping,ThemePark",10962,Long,Asthma,1,Other
+Singapore,City,Summer,Family,"Shopping,ThemePark",4065,Short,Asthma,5,Other
+Goa,Beach,Summer,Family,"Beach,Party,Relaxation",5932,Long,Asthma,5,India
+Dubai,City,Winter,Friends,"Shopping,Adventure",11277,Long,None,1,Other
+Goa,Beach,Summer,Solo,"Beach,Party,Relaxation",10532,Short,Heart Issues,1,India
+Paris,City,Summer,Couple,"Sightseeing,Culture",11776,Long,None,3,Other
+Ooty,Hill/Beach,Winter,Family,"Relaxation,Trekking",19400,Short,Heart Issues,3,India
+Singapore,City,Summer,Family,"Shopping,ThemePark",12978,Short,None,3,Other
+Leh,Mountain,Summer,Couple,"Trekking,Adventure",17857,Long,Heart Issues,4,India
+Goa,Beach,Summer,Solo,"Beach,Party,Relaxation",12137,Long,Heart Issues,4,India
+Manali,Mountain,Winter,Friends,"Trekking,Adventure",5219,Short,Asthma,4,India
+Goa,Beach,Summer,Family,"Beach,Party,Relaxation",9185,Short,Heart Issues,6,India
+Ooty,Hill/Beach,Winter,Couple,"Relaxation,Trekking",21174,Long,Heart Issues,1,India
+Kerala,Hill/Beach,Monsoon,Friends,"Houseboat,Relaxation",15097,Short,None,1,India
+Singapore,City,Summer,Family,"Shopping,ThemePark",16923,Short,Heart Issues,4,Other
+Kerala,Hill/Beach,Monsoon,Couple,"Houseboat,Relaxation",4141,Long,Asthma,2,India
+Goa,Beach,Summer,Family,"Beach,Party,Relaxation",17835,Short,Heart Issues,2,India
+Goa,Beach,Summer,Family,"Beach,Party,Relaxation",23995,Long,Asthma,5,India
+Dubai,City,Winter,Couple,"Shopping,Adventure",11366,Short,Asthma,4,Other
+Paris,City,Summer,Couple,"Sightseeing,Culture",15434,Long,None,1,Other
+Hampi,Historical,Winter,Couple,"Sightseeing,Photography",23193,Short,Heart Issues,3,India
+Goa,Beach,Summer,Friends,"Beach,Party,Relaxation",23347,Long,Heart Issues,3,India
+Leh,Mountain,Summer,Solo,"Trekking,Adventure",19711,Long,Asthma,5,India
+Goa,Beach,Summer,Couple,"Beach,Party,Relaxation",20809,Short,Heart Issues,1,India
+Singapore,City,Summer,Couple,"Shopping,ThemePark",5574,Short,None,1,Other
+Singapore,City,Summer,Solo,"Shopping,ThemePark",18097,Short,None,4,Other
+Leh,Mountain,Summer,Couple,"Trekking,Adventure",12000,Long,Asthma,3,India
+Leh,Mountain,Summer,Solo,"Trekking,Adventure",4655,Long,None,2,India
+Dubai,City,Winter,Solo,"Shopping,Adventure",21316,Long,Asthma,6,Other
+Dubai,City,Winter,Couple,"Shopping,Adventure",22148,Long,Heart Issues,5,Other
+Ooty,Hill/Beach,Winter,Friends,"Relaxation,Trekking",24606,Long,Heart Issues,6,India
+London,City,Winter,Family,"Culture,Sightseeing",4096,Long,Heart Issues,6,Other
+Hampi,Historical,Winter,Solo,"Sightseeing,Photography",13979,Short,None,2,India
+London,City,Winter,Family,"Culture,Sightseeing",20691,Short,None,1,Other
+Dubai,City,Winter,Couple,"Shopping,Adventure",14397,Short,Asthma,1,Other
+Singapore,City,Summer,Family,"Shopping,ThemePark",5740,Long,Heart Issues,2,Other
+Kerala,Hill/Beach,Monsoon,Friends,"Houseboat,Relaxation",5783,Short,Heart Issues,4,India
+London,City,Winter,Friends,"Culture,Sightseeing",6076,Long,Asthma,3,Other
+Leh,Mountain,Summer,Couple,"Trekking,Adventure",8013,Short,Heart Issues,2,India
+Hampi,Historical,Winter,Solo,"Sightseeing,Photography",9967,Short,Heart Issues,3,India
+Ooty,Hill/Beach,Winter,Friends,"Relaxation,Trekking",16218,Short,Heart Issues,1,India
+Paris,City,Summer,Friends,"Sightseeing,Culture",11385,Short,Asthma,2,Other
+Ooty,Hill/Beach,Winter,Family,"Relaxation,Trekking",5456,Short,Heart Issues,2,India
+Ooty,Hill/Beach,Winter,Family,"Relaxation,Trekking",23166,Short,Heart Issues,1,India
+Paris,City,Summer,Family,"Sightseeing,Culture",22622,Short,Asthma,5,Other
+Singapore,City,Summer,Friends,"Shopping,ThemePark",18274,Long,Heart Issues,1,Other
+Leh,Mountain,Summer,Solo,"Trekking,Adventure",15855,Short,None,4,India
+Manali,Mountain,Winter,Couple,"Trekking,Adventure",18082,Long,Asthma,3,India
+Goa,Beach,Summer,Friends,"Beach,Party,Relaxation",5780,Short,Asthma,5,India
+Ooty,Hill/Beach,Winter,Friends,"Relaxation,Trekking",23801,Short,Heart Issues,2,India
+Ooty,Hill/Beach,Winter,Family,"Relaxation,Trekking",3610,Long,Asthma,6,India
+Kerala,Hill/Beach,Monsoon,Friends,"Houseboat,Relaxation",9222,Short,None,1,India
+Dubai,City,Winter,Couple,"Shopping,Adventure",10566,Long,Heart Issues,3,Other
+Paris,City,Summer,Solo,"Sightseeing,Culture",4731,Short,Heart Issues,3,Other
+Paris,City,Summer,Friends,"Sightseeing,Culture",17647,Short,Heart Issues,6,Other
+Leh,Mountain,Summer,Solo,"Trekking,Adventure",10721,Short,None,3,India
+Goa,Beach,Summer,Family,"Beach,Party,Relaxation",17692,Short,None,1,India
+Hampi,Historical,Winter,Family,"Sightseeing,Photography",20010,Long,Heart Issues,1,India
+Paris,City,Summer,Friends,"Sightseeing,Culture",16856,Short,Heart Issues,5,Other
+Singapore,City,Summer,Friends,"Shopping,ThemePark",18886,Long,Heart Issues,3,Other
+Goa,Beach,Summer,Couple,"Beach,Party,Relaxation",15357,Short,None,4,India
+Dubai,City,Winter,Friends,"Shopping,Adventure",8713,Short,Asthma,2,Other
+Paris,City,Summer,Couple,"Sightseeing,Culture",17448,Long,Heart Issues,4,Other
+Hampi,Historical,Winter,Friends,"Sightseeing,Photography",18298,Short,Heart Issues,4,India
+Goa,Beach,Summer,Solo,"Beach,Party,Relaxation",13793,Long,Heart Issues,3,India
+Manali,Mountain,Winter,Couple,"Trekking,Adventure",16107,Short,Heart Issues,3,India
+Paris,City,Summer,Solo,"Sightseeing,Culture",11318,Long,Asthma,4,Other
+Goa,Beach,Summer,Couple,"Beach,Party,Relaxation",10473,Long,Asthma,6,India
+Manali,Mountain,Winter,Couple,"Trekking,Adventure",20517,Long,None,5,India
+Goa,Beach,Summer,Solo,"Beach,Party,Relaxation",9594,Long,None,3,India
+Singapore,City,Summer,Friends,"Shopping,ThemePark",23456,Long,Heart Issues,5,Other
+Manali,Mountain,Winter,Friends,"Trekking,Adventure",12147,Short,Asthma,2,India
+London,City,Winter,Family,"Culture,Sightseeing",14955,Short,Heart Issues,6,Other
+London,City,Winter,Family,"Culture,Sightseeing",17694,Long,Asthma,3,Other
+Kerala,Hill/Beach,Monsoon,Couple,"Houseboat,Relaxation",17059,Short,Heart Issues,1,India
+Kerala,Hill/Beach,Monsoon,Family,"Houseboat,Relaxation",15663,Long,Asthma,1,India
+Paris,City,Summer,Family,"Sightseeing,Culture",22015,Short,Asthma,3,Other
+Ooty,Hill/Beach,Winter,Friends,"Relaxation,Trekking",7764,Long,Heart Issues,6,India
+Singapore,City,Summer,Couple,"Shopping,ThemePark",22077,Short,Heart Issues,5,Other
+Manali,Mountain,Winter,Solo,"Trekking,Adventure",10778,Short,Asthma,4,India
+Kerala,Hill/Beach,Monsoon,Couple,"Houseboat,Relaxation",5400,Long,None,5,India
+Manali,Mountain,Winter,Friends,"Trekking,Adventure",11291,Long,Asthma,2,India
+Paris,City,Summer,Family,"Sightseeing,Culture",3864,Short,None,5,Other
+Hampi,Historical,Winter,Friends,"Sightseeing,Photography",4573,Short,Heart Issues,5,India
+Hampi,Historical,Winter,Friends,"Sightseeing,Photography",19492,Short,None,3,India
+Goa,Beach,Summer,Couple,"Beach,Party,Relaxation",7067,Short,Asthma,2,India
+Goa,Beach,Summer,Family,"Beach,Party,Relaxation",16207,Short,Heart Issues,3,India
+Dubai,City,Winter,Friends,"Shopping,Adventure",24948,Short,None,2,Other
+Paris,City,Summer,Couple,"Sightseeing,Culture",22962,Long,Asthma,1,Other
+Manali,Mountain,Winter,Solo,"Trekking,Adventure",20989,Long,None,3,India
+London,City,Winter,Friends,"Culture,Sightseeing",12550,Long,Asthma,5,Other
+London,City,Winter,Friends,"Culture,Sightseeing",24825,Long,None,5,Other
+Paris,City,Summer,Couple,"Sightseeing,Culture",7083,Long,None,5,Other
+Goa,Beach,Summer,Solo,"Beach,Party,Relaxation",20169,Short,Asthma,1,India
+Singapore,City,Summer,Friends,"Shopping,ThemePark",20789,Long,Heart Issues,4,Other
+Dubai,City,Winter,Couple,"Shopping,Adventure",11292,Short,None,1,Other
+Hampi,Historical,Winter,Family,"Sightseeing,Photography",13432,Short,Heart Issues,5,India
+Manali,Mountain,Winter,Solo,"Trekking,Adventure",15063,Long,Heart Issues,2,India
+London,City,Winter,Solo,"Culture,Sightseeing",22469,Long,None,5,Other
+Goa,Beach,Summer,Family,"Beach,Party,Relaxation",17995,Long,None,5,India
+Singapore,City,Summer,Friends,"Shopping,ThemePark",11817,Long,Asthma,3,Other
+Paris,City,Summer,Friends,"Sightseeing,Culture",11403,Long,Heart Issues,2,Other
+Manali,Mountain,Winter,Couple,"Trekking,Adventure",5169,Long,Asthma,2,India
+Hampi,Historical,Winter,Friends,"Sightseeing,Photography",24947,Long,None,2,India
+Singapore,City,Summer,Couple,"Shopping,ThemePark",24909,Long,None,3,Other
+Dubai,City,Winter,Family,"Shopping,Adventure",15828,Long,Asthma,4,Other
+Hampi,Historical,Winter,Family,"Sightseeing,Photography",12608,Long,Heart Issues,4,India
+Hampi,Historical,Winter,Couple,"Sightseeing,Photography",24446,Long,Heart Issues,1,India
+Hampi,Historical,Winter,Solo,"Sightseeing,Photography",7833,Short,Heart Issues,1,India
+Dubai,City,Winter,Friends,"Shopping,Adventure",11011,Short,None,3,Other
+Kerala,Hill/Beach,Monsoon,Solo,"Houseboat,Relaxation",3959,Short,None,3,India
+Dubai,City,Winter,Family,"Shopping,Adventure",4405,Short,None,4,Other
+Manali,Mountain,Winter,Couple,"Trekking,Adventure",14420,Short,Heart Issues,6,India
+Kerala,Hill/Beach,Monsoon,Solo,"Houseboat,Relaxation",7573,Short,Asthma,3,India
+Manali,Mountain,Winter,Family,"Trekking,Adventure",9735,Long,None,1,India
+Hampi,Historical,Winter,Friends,"Sightseeing,Photography",18349,Long,Asthma,6,India
+Paris,City,Summer,Couple,"Sightseeing,Culture",7136,Short,Heart Issues,2,Other
+Goa,Beach,Summer,Solo,"Beach,Party,Relaxation",14850,Short,Asthma,6,India
+London,City,Winter,Family,"Culture,Sightseeing",12762,Short,Heart Issues,6,Other
+Goa,Beach,Summer,Couple,"Beach,Party,Relaxation",22807,Long,Asthma,5,India
+Singapore,City,Summer,Solo,"Shopping,ThemePark",4229,Long,Asthma,4,Other
+Ooty,Hill/Beach,Winter,Friends,"Relaxation,Trekking",14845,Long,Asthma,2,India
+Hampi,Historical,Winter,Solo,"Sightseeing,Photography",23240,Short,Heart Issues,5,India
+Manali,Mountain,Winter,Solo,"Trekking,Adventure",23406,Long,None,2,India
+Kerala,Hill/Beach,Monsoon,Friends,"Houseboat,Relaxation",3040,Long,Asthma,2,India
+Paris,City,Summer,Family,"Sightseeing,Culture",7163,Short,Asthma,6,Other
+Hampi,Historical,Winter,Family,"Sightseeing,Photography",11498,Short,None,4,India
+Hampi,Historical,Winter,Family,"Sightseeing,Photography",4850,Long,Asthma,4,India
+London,City,Winter,Family,"Culture,Sightseeing",11954,Short,Heart Issues,2,Other
+Singapore,City,Summer,Family,"Shopping,ThemePark",10367,Long,Asthma,2,Other
+Ooty,Hill/Beach,Winter,Friends,"Relaxation,Trekking",12480,Long,Heart Issues,2,India
+Singapore,City,Summer,Family,"Shopping,ThemePark",15615,Long,None,4,Other
+London,City,Winter,Couple,"Culture,Sightseeing",7988,Long,Heart Issues,3,Other
+Hampi,Historical,Winter,Couple,"Sightseeing,Photography",23895,Long,Asthma,3,India
+Hampi,Historical,Winter,Couple,"Sightseeing,Photography",15155,Long,Heart Issues,2,India
+London,City,Winter,Family,"Culture,Sightseeing",4158,Short,Asthma,5,Other
+Manali,Mountain,Winter,Solo,"Trekking,Adventure",11381,Long,None,1,India
+Leh,Mountain,Summer,Solo,"Trekking,Adventure",13543,Long,None,5,India
+Kerala,Hill/Beach,Monsoon,Friends,"Houseboat,Relaxation",18361,Long,None,1,India
+Leh,Mountain,Summer,Friends,"Trekking,Adventure",8668,Long,Heart Issues,5,India
+Leh,Mountain,Summer,Family,"Trekking,Adventure",6683,Short,None,5,India
+Kerala,Hill/Beach,Monsoon,Family,"Houseboat,Relaxation",19030,Long,Asthma,6,India
+Kerala,Hill/Beach,Monsoon,Couple,"Houseboat,Relaxation",19613,Long,Heart Issues,4,India
+Dubai,City,Winter,Friends,"Shopping,Adventure",5026,Long,None,3,Other
+Paris,City,Summer,Family,"Sightseeing,Culture",9045,Long,Heart Issues,4,Other
+Manali,Mountain,Winter,Couple,"Trekking,Adventure",16894,Short,None,2,India
+London,City,Winter,Friends,"Culture,Sightseeing",24635,Short,None,1,Other
+Manali,Mountain,Winter,Family,"Trekking,Adventure",19631,Long,Heart Issues,6,India
+Kerala,Hill/Beach,Monsoon,Family,"Houseboat,Relaxation",14035,Short,None,4,India
+Dubai,City,Winter,Family,"Shopping,Adventure",11144,Long,Asthma,4,Other
+Hampi,Historical,Winter,Friends,"Sightseeing,Photography",17495,Short,Heart Issues,6,India
+Hampi,Historical,Winter,Couple,"Sightseeing,Photography",17950,Long,Asthma,1,India
+Singapore,City,Summer,Solo,"Shopping,ThemePark",7740,Short,Asthma,6,Other
+Leh,Mountain,Summer,Couple,"Trekking,Adventure",3314,Short,Asthma,2,India
+London,City,Winter,Couple,"Culture,Sightseeing",20552,Long,None,4,Other
+Paris,City,Summer,Friends,"Sightseeing,Culture",12664,Short,Asthma,3,Other
+Manali,Mountain,Winter,Couple,"Trekking,Adventure",5058,Long,Heart Issues,5,India
+Hampi,Historical,Winter,Family,"Sightseeing,Photography",23668,Short,None,3,India
+Ooty,Hill/Beach,Winter,Friends,"Relaxation,Trekking",11404,Long,Heart Issues,5,India
+Goa,Beach,Summer,Couple,"Beach,Party,Relaxation",13222,Short,Heart Issues,2,India
+Hampi,Historical,Winter,Couple,"Sightseeing,Photography",17469,Short,Heart Issues,1,India
+Manali,Mountain,Winter,Solo,"Trekking,Adventure",10059,Short,None,6,India
+Paris,City,Summer,Friends,"Sightseeing,Culture",24337,Long,Asthma,1,Other
+Singapore,City,Summer,Couple,"Shopping,ThemePark",23849,Long,None,2,Other
+London,City,Winter,Friends,"Culture,Sightseeing",6970,Short,Asthma,1,Other
+Singapore,City,Summer,Family,"Shopping,ThemePark",17599,Short,Asthma,5,Other
+Paris,City,Summer,Friends,"Sightseeing,Culture",18231,Short,Heart Issues,6,Other
+Singapore,City,Summer,Couple,"Shopping,ThemePark",21464,Short,None,4,Other
+Paris,City,Summer,Solo,"Sightseeing,Culture",23623,Short,Heart Issues,2,Other
+Hampi,Historical,Winter,Solo,"Sightseeing,Photography",18535,Long,Asthma,1,India
+Kerala,Hill/Beach,Monsoon,Solo,"Houseboat,Relaxation",21868,Long,Asthma,2,India
+Singapore,City,Summer,Couple,"Shopping,ThemePark",23771,Long,None,2,Other
+Singapore,City,Summer,Couple,"Shopping,ThemePark",21909,Long,None,2,Other
+Singapore,City,Summer,Family,"Shopping,ThemePark",14326,Short,Heart Issues,5,Other
+Kerala,Hill/Beach,Monsoon,Friends,"Houseboat,Relaxation",4145,Long,Asthma,3,India
+London,City,Winter,Family,"Culture,Sightseeing",11550,Short,Asthma,3,Other
+Hampi,Historical,Winter,Friends,"Sightseeing,Photography",10787,Long,None,2,India
+Manali,Mountain,Winter,Solo,"Trekking,Adventure",13144,Short,Heart Issues,2,India
+Manali,Mountain,Winter,Solo,"Trekking,Adventure",6533,Short,Heart Issues,1,India
+Singapore,City,Summer,Solo,"Shopping,ThemePark",6152,Short,Heart Issues,2,Other
+London,City,Winter,Couple,"Culture,Sightseeing",15420,Short,Asthma,1,Other
+Ooty,Hill/Beach,Winter,Solo,"Relaxation,Trekking",6154,Short,Heart Issues,2,India
+Leh,Mountain,Summer,Family,"Trekking,Adventure",9055,Short,None,6,India
+Ooty,Hill/Beach,Winter,Couple,"Relaxation,Trekking",19253,Short,Heart Issues,2,India
+Kerala,Hill/Beach,Monsoon,Friends,"Houseboat,Relaxation",8841,Long,None,3,India
+Paris,City,Summer,Solo,"Sightseeing,Culture",23325,Short,Asthma,1,Other
+Kerala,Hill/Beach,Monsoon,Family,"Houseboat,Relaxation",19975,Short,Asthma,1,India
+Paris,City,Summer,Couple,"Sightseeing,Culture",9190,Short,None,1,Other
+Kerala,Hill/Beach,Monsoon,Family,"Houseboat,Relaxation",20948,Long,Asthma,3,India
+Paris,City,Summer,Solo,"Sightseeing,Culture",9106,Long,None,6,Other
+London,City,Winter,Couple,"Culture,Sightseeing",4050,Long,Asthma,6,Other
+Goa,Beach,Summer,Couple,"Beach,Party,Relaxation",14162,Short,Heart Issues,4,India
+London,City,Winter,Family,"Culture,Sightseeing",15576,Long,Heart Issues,6,Other
+Singapore,City,Summer,Family,"Shopping,ThemePark",10341,Long,None,6,Other
+Kerala,Hill/Beach,Monsoon,Couple,"Houseboat,Relaxation",6361,Long,None,3,India
+Kerala,Hill/Beach,Monsoon,Family,"Houseboat,Relaxation",8499,Long,None,5,India
+Hampi,Historical,Winter,Couple,"Sightseeing,Photography",18078,Short,Heart Issues,3,India
+Ooty,Hill/Beach,Winter,Solo,"Relaxation,Trekking",14219,Long,Heart Issues,5,India
+Leh,Mountain,Summer,Solo,"Trekking,Adventure",20660,Long,Asthma,2,India
+Dubai,City,Winter,Couple,"Shopping,Adventure",17377,Short,None,5,Other
+Goa,Beach,Summer,Friends,"Beach,Party,Relaxation",21410,Long,None,6,India
+Singapore,City,Summer,Family,"Shopping,ThemePark",17075,Long,None,5,Other
+Manali,Mountain,Winter,Couple,"Trekking,Adventure",21810,Long,Heart Issues,3,India
+London,City,Winter,Friends,"Culture,Sightseeing",6232,Long,Asthma,5,Other
+Singapore,City,Summer,Solo,"Shopping,ThemePark",14465,Long,Asthma,3,Other
+Ooty,Hill/Beach,Winter,Friends,"Relaxation,Trekking",16431,Long,Heart Issues,2,India
+Paris,City,Summer,Family,"Sightseeing,Culture",7294,Short,Heart Issues,6,Other
+Hampi,Historical,Winter,Couple,"Sightseeing,Photography",4114,Long,None,5,India
+Singapore,City,Summer,Family,"Shopping,ThemePark",22112,Short,Heart Issues,6,Other
+Kerala,Hill/Beach,Monsoon,Friends,"Houseboat,Relaxation",18896,Long,None,4,India
+Kerala,Hill/Beach,Monsoon,Friends,"Houseboat,Relaxation",21931,Long,None,1,India
+Paris,City,Summer,Solo,"Sightseeing,Culture",15705,Short,None,5,Other
+Paris,City,Summer,Couple,"Sightseeing,Culture",14721,Long,Heart Issues,1,Other
+Paris,City,Summer,Family,"Sightseeing,Culture",18327,Long,Asthma,5,Other
+Manali,Mountain,Winter,Couple,"Trekking,Adventure",6753,Long,None,4,India
+Goa,Beach,Summer,Family,"Beach,Party,Relaxation",18167,Short,Heart Issues,1,India
+Ooty,Hill/Beach,Winter,Couple,"Relaxation,Trekking",13072,Long,None,2,India
+Singapore,City,Summer,Family,"Shopping,ThemePark",12015,Short,Asthma,5,Other
+Hampi,Historical,Winter,Friends,"Sightseeing,Photography",15515,Long,Asthma,5,India
+Goa,Beach,Summer,Family,"Beach,Party,Relaxation",8410,Long,Asthma,6,India
+Goa,Beach,Summer,Family,"Beach,Party,Relaxation",8992,Long,Heart Issues,5,India
+Goa,Beach,Summer,Friends,"Beach,Party,Relaxation",16190,Short,Asthma,4,India
+Singapore,City,Summer,Family,"Shopping,ThemePark",8708,Short,Asthma,2,Other
+Singapore,City,Summer,Solo,"Shopping,ThemePark",7504,Short,Heart Issues,6,Other
+Paris,City,Summer,Friends,"Sightseeing,Culture",4206,Short,None,6,Other
+Hampi,Historical,Winter,Couple,"Sightseeing,Photography",17113,Short,Asthma,1,India
+Manali,Mountain,Winter,Friends,"Trekking,Adventure",13776,Long,Heart Issues,1,India
+Goa,Beach,Summer,Family,"Beach,Party,Relaxation",24100,Short,Heart Issues,5,India
+Kerala,Hill/Beach,Monsoon,Friends,"Houseboat,Relaxation",3019,Long,None,4,India
+Ooty,Hill/Beach,Winter,Family,"Relaxation,Trekking",17953,Short,Asthma,4,India
+Kerala,Hill/Beach,Monsoon,Family,"Houseboat,Relaxation",7393,Long,None,3,India
+Singapore,City,Summer,Solo,"Shopping,ThemePark",7588,Short,Asthma,6,Other
+Dubai,City,Winter,Friends,"Shopping,Adventure",21425,Long,Heart Issues,6,Other
+Hampi,Historical,Winter,Family,"Sightseeing,Photography",23277,Long,None,6,India
+Dubai,City,Winter,Friends,"Shopping,Adventure",7201,Short,Heart Issues,6,Other
+Hampi,Historical,Winter,Couple,"Sightseeing,Photography",18053,Short,Heart Issues,2,India
+Hampi,Historical,Winter,Friends,"Sightseeing,Photography",10932,Long,None,5,India
+Goa,Beach,Summer,Solo,"Beach,Party,Relaxation",8951,Long,Asthma,3,India
+Leh,Mountain,Summer,Friends,"Trekking,Adventure",7927,Short,Asthma,5,India
+Hampi,Historical,Winter,Solo,"Sightseeing,Photography",20073,Long,Asthma,1,India
+Kerala,Hill/Beach,Monsoon,Friends,"Houseboat,Relaxation",18070,Short,Asthma,4,India
+Hampi,Historical,Winter,Couple,"Sightseeing,Photography",9456,Long,None,3,India
+Ooty,Hill/Beach,Winter,Solo,"Relaxation,Trekking",18087,Long,Heart Issues,4,India
+Paris,City,Summer,Friends,"Sightseeing,Culture",13332,Short,None,5,Other
+London,City,Winter,Couple,"Culture,Sightseeing",3756,Short,Asthma,1,Other
+Goa,Beach,Summer,Couple,"Beach,Party,Relaxation",24311,Long,None,1,India
+Ooty,Hill/Beach,Winter,Couple,"Relaxation,Trekking",4230,Short,None,3,India
+Goa,Beach,Summer,Solo,"Beach,Party,Relaxation",21041,Long,None,1,India
+Dubai,City,Winter,Solo,"Shopping,Adventure",6392,Long,None,3,Other
+Goa,Beach,Summer,Family,"Beach,Party,Relaxation",5412,Short,None,4,India
+Paris,City,Summer,Couple,"Sightseeing,Culture",10387,Long,None,1,Other
+Ooty,Hill/Beach,Winter,Friends,"Relaxation,Trekking",13064,Short,Asthma,4,India
+Paris,City,Summer,Solo,"Sightseeing,Culture",13029,Short,Heart Issues,2,Other
+Manali,Mountain,Winter,Friends,"Trekking,Adventure",23475,Short,None,3,India
+Goa,Beach,Summer,Family,"Beach,Party,Relaxation",12514,Short,Asthma,1,India
+Ooty,Hill/Beach,Winter,Solo,"Relaxation,Trekking",17176,Long,Heart Issues,6,India
+London,City,Winter,Solo,"Culture,Sightseeing",24024,Long,Asthma,6,Other
+Hampi,Historical,Winter,Solo,"Sightseeing,Photography",14815,Long,Asthma,5,India
+Hampi,Historical,Winter,Couple,"Sightseeing,Photography",17477,Short,Asthma,5,India
+Goa,Beach,Summer,Family,"Beach,Party,Relaxation",20453,Short,Asthma,2,India
+London,City,Winter,Solo,"Culture,Sightseeing",21485,Short,Asthma,3,Other
+London,City,Winter,Family,"Culture,Sightseeing",7755,Long,Heart Issues,3,Other
+Paris,City,Summer,Friends,"Sightseeing,Culture",17913,Short,Asthma,2,Other
+Goa,Beach,Summer,Family,"Beach,Party,Relaxation",3040,Long,Asthma,5,India
+Hampi,Historical,Winter,Friends,"Sightseeing,Photography",3703,Long,None,4,India
+Kerala,Hill/Beach,Monsoon,Family,"Houseboat,Relaxation",3306,Short,Asthma,6,India
+Leh,Mountain,Summer,Solo,"Trekking,Adventure",8017,Long,Asthma,1,India
+Manali,Mountain,Winter,Family,"Trekking,Adventure",5243,Short,Heart Issues,1,India
+Hampi,Historical,Winter,Solo,"Sightseeing,Photography",22387,Short,Asthma,1,India
+Singapore,City,Summer,Solo,"Shopping,ThemePark",5730,Long,Heart Issues,3,Other
+Kerala,Hill/Beach,Monsoon,Friends,"Houseboat,Relaxation",7041,Long,Asthma,1,India
+Leh,Mountain,Summer,Solo,"Trekking,Adventure",4573,Short,Asthma,6,India
+Singapore,City,Summer,Solo,"Shopping,ThemePark",10028,Short,None,6,Other
+Ooty,Hill/Beach,Winter,Solo,"Relaxation,Trekking",22631,Short,Heart Issues,1,India
+London,City,Winter,Solo,"Culture,Sightseeing",9278,Long,Heart Issues,1,Other
+Kerala,Hill/Beach,Monsoon,Couple,"Houseboat,Relaxation",18744,Short,Asthma,4,India
+Singapore,City,Summer,Friends,"Shopping,ThemePark",9140,Long,Asthma,6,Other
+Manali,Mountain,Winter,Friends,"Trekking,Adventure",23195,Short,Heart Issues,4,India
+Paris,City,Summer,Family,"Sightseeing,Culture",4535,Long,Heart Issues,4,Other
+Ooty,Hill/Beach,Winter,Friends,"Relaxation,Trekking",14368,Long,None,4,India
+Ooty,Hill/Beach,Winter,Couple,"Relaxation,Trekking",7425,Short,Heart Issues,5,India
+Goa,Beach,Summer,Family,"Beach,Party,Relaxation",4119,Short,Asthma,5,India
+Ooty,Hill/Beach,Winter,Friends,"Relaxation,Trekking",12842,Short,Asthma,1,India
+Hampi,Historical,Winter,Family,"Sightseeing,Photography",21520,Short,Heart Issues,5,India
+Goa,Beach,Summer,Friends,"Beach,Party,Relaxation",20865,Long,Heart Issues,6,India
+Goa,Beach,Summer,Couple,"Beach,Party,Relaxation",18922,Short,Heart Issues,3,India
+Goa,Beach,Summer,Family,"Beach,Party,Relaxation",5689,Short,Heart Issues,5,India
+Singapore,City,Summer,Family,"Shopping,ThemePark",3896,Long,Heart Issues,5,Other
+Kerala,Hill/Beach,Monsoon,Solo,"Houseboat,Relaxation",19024,Short,None,2,India
+Dubai,City,Winter,Solo,"Shopping,Adventure",3955,Short,None,4,Other
+Leh,Mountain,Summer,Friends,"Trekking,Adventure",22745,Long,None,4,India
+Paris,City,Summer,Couple,"Sightseeing,Culture",17645,Short,Asthma,2,Other
+Leh,Mountain,Summer,Solo,"Trekking,Adventure",16799,Short,Heart Issues,1,India
+Dubai,City,Winter,Family,"Shopping,Adventure",13810,Long,None,3,Other
+Singapore,City,Summer,Couple,"Shopping,ThemePark",15706,Long,Heart Issues,5,Other
+Goa,Beach,Summer,Couple,"Beach,Party,Relaxation",12970,Long,None,5,India
+Dubai,City,Winter,Family,"Shopping,Adventure",7262,Long,Asthma,6,Other
+Hampi,Historical,Winter,Couple,"Sightseeing,Photography",9672,Long,None,6,India
+Ooty,Hill/Beach,Winter,Friends,"Relaxation,Trekking",14560,Long,None,1,India
+Goa,Beach,Summer,Solo,"Beach,Party,Relaxation",21147,Short,Heart Issues,4,India
+London,City,Winter,Couple,"Culture,Sightseeing",19313,Short,Asthma,1,Other
+London,City,Winter,Family,"Culture,Sightseeing",18026,Long,Heart Issues,1,Other
+Manali,Mountain,Winter,Family,"Trekking,Adventure",4843,Long,Heart Issues,2,India
+Singapore,City,Summer,Family,"Shopping,ThemePark",5364,Long,Asthma,2,Other
+Hampi,Historical,Winter,Solo,"Sightseeing,Photography",5473,Long,Heart Issues,6,India
+Hampi,Historical,Winter,Solo,"Sightseeing,Photography",13602,Long,Asthma,4,India
+Singapore,City,Summer,Family,"Shopping,ThemePark",23244,Short,Asthma,6,Other
+Hampi,Historical,Winter,Couple,"Sightseeing,Photography",21366,Short,None,5,India
+Singapore,City,Summer,Solo,"Shopping,ThemePark",16330,Long,Heart Issues,6,Other
+Kerala,Hill/Beach,Monsoon,Solo,"Houseboat,Relaxation",22974,Long,Heart Issues,4,India
+Singapore,City,Summer,Family,"Shopping,ThemePark",15143,Long,Asthma,3,Other
+Kerala,Hill/Beach,Monsoon,Family,"Houseboat,Relaxation",3656,Long,Heart Issues,2,India
+Manali,Mountain,Winter,Family,"Trekking,Adventure",10004,Long,None,4,India
+Kerala,Hill/Beach,Monsoon,Solo,"Houseboat,Relaxation",22054,Long,None,5,India
+Leh,Mountain,Summer,Friends,"Trekking,Adventure",10443,Long,Asthma,6,India
+Dubai,City,Winter,Couple,"Shopping,Adventure",7418,Short,Heart Issues,3,Other
+Paris,City,Summer,Family,"Sightseeing,Culture",18832,Short,None,5,Other
+Hampi,Historical,Winter,Couple,"Sightseeing,Photography",15161,Long,None,2,India
+Manali,Mountain,Winter,Solo,"Trekking,Adventure",19010,Long,Asthma,4,India
+Hampi,Historical,Winter,Couple,"Sightseeing,Photography",7629,Short,Asthma,1,India
+Hampi,Historical,Winter,Family,"Sightseeing,Photography",12324,Short,None,5,India
+London,City,Winter,Friends,"Culture,Sightseeing",8113,Short,Asthma,1,Other
+Goa,Beach,Summer,Solo,"Beach,Party,Relaxation",11371,Short,Asthma,4,India
+Goa,Beach,Summer,Couple,"Beach,Party,Relaxation",17866,Short,None,6,India
+Leh,Mountain,Summer,Couple,"Trekking,Adventure",8220,Short,Heart Issues,3,India
+Manali,Mountain,Winter,Solo,"Trekking,Adventure",22878,Long,Heart Issues,3,India
+Dubai,City,Winter,Solo,"Shopping,Adventure",23111,Short,None,2,Other
+Goa,Beach,Summer,Solo,"Beach,Party,Relaxation",18761,Long,Asthma,6,India
+Manali,Mountain,Winter,Couple,"Trekking,Adventure",20708,Short,None,6,India
+Goa,Beach,Summer,Couple,"Beach,Party,Relaxation",24299,Short,Asthma,1,India
+London,City,Winter,Couple,"Culture,Sightseeing",14206,Long,Asthma,2,Other
+Goa,Beach,Summer,Family,"Beach,Party,Relaxation",18365,Short,None,3,India
+Paris,City,Summer,Couple,"Sightseeing,Culture",6621,Short,None,4,Other
+London,City,Winter,Friends,"Culture,Sightseeing",11103,Long,Heart Issues,2,Other
+London,City,Winter,Solo,"Culture,Sightseeing",9887,Long,Heart Issues,6,Other
+Kerala,Hill/Beach,Monsoon,Family,"Houseboat,Relaxation",10497,Short,Asthma,3,India
+Singapore,City,Summer,Couple,"Shopping,ThemePark",21381,Long,Heart Issues,1,Other
+Hampi,Historical,Winter,Friends,"Sightseeing,Photography",15599,Short,None,1,India
+Ooty,Hill/Beach,Winter,Friends,"Relaxation,Trekking",4714,Long,Heart Issues,6,India
+Manali,Mountain,Winter,Family,"Trekking,Adventure",15008,Long,None,3,India
+Paris,City,Summer,Solo,"Sightseeing,Culture",19355,Short,Asthma,1,Other
+Kerala,Hill/Beach,Monsoon,Solo,"Houseboat,Relaxation",9453,Short,None,4,India
+Singapore,City,Summer,Family,"Shopping,ThemePark",10381,Short,None,3,Other
+Dubai,City,Winter,Family,"Shopping,Adventure",18624,Short,Asthma,5,Other
+Hampi,Historical,Winter,Family,"Sightseeing,Photography",15489,Long,Asthma,5,India
+Singapore,City,Summer,Family,"Shopping,ThemePark",5920,Short,None,2,Other
+Dubai,City,Winter,Friends,"Shopping,Adventure",7867,Short,Heart Issues,6,Other
+London,City,Winter,Friends,"Culture,Sightseeing",17920,Long,Heart Issues,1,Other
+London,City,Winter,Solo,"Culture,Sightseeing",9471,Short,Heart Issues,5,Other
+Kerala,Hill/Beach,Monsoon,Family,"Houseboat,Relaxation",24616,Short,Heart Issues,2,India
+Goa,Beach,Summer,Couple,"Beach,Party,Relaxation",5359,Short,Heart Issues,3,India
+Goa,Beach,Summer,Solo,"Beach,Party,Relaxation",3206,Long,Heart Issues,5,India
+Dubai,City,Winter,Solo,"Shopping,Adventure",21652,Short,Asthma,2,Other
+Paris,City,Summer,Solo,"Sightseeing,Culture",11385,Long,Asthma,3,Other
+Manali,Mountain,Winter,Family,"Trekking,Adventure",7495,Long,Heart Issues,1,India
+London,City,Winter,Family,"Culture,Sightseeing",6193,Short,None,5,Other
+Paris,City,Summer,Couple,"Sightseeing,Culture",12845,Short,None,1,Other
+Ooty,Hill/Beach,Winter,Couple,"Relaxation,Trekking",11655,Short,Heart Issues,1,India
+Dubai,City,Winter,Couple,"Shopping,Adventure",3698,Long,Asthma,3,Other
+Manali,Mountain,Winter,Solo,"Trekking,Adventure",21778,Long,Heart Issues,2,India
+Paris,City,Summer,Couple,"Sightseeing,Culture",22917,Short,Heart Issues,4,Other
+Ooty,Hill/Beach,Winter,Solo,"Relaxation,Trekking",11537,Long,None,3,India
+Ooty,Hill/Beach,Winter,Family,"Relaxation,Trekking",19846,Long,None,3,India
+Goa,Beach,Summer,Couple,"Beach,Party,Relaxation",11227,Short,Asthma,5,India
+Dubai,City,Winter,Couple,"Shopping,Adventure",11779,Long,None,6,Other
+Leh,Mountain,Summer,Solo,"Trekking,Adventure",24884,Short,None,6,India
+Ooty,Hill/Beach,Winter,Solo,"Relaxation,Trekking",18169,Long,Asthma,2,India
+London,City,Winter,Family,"Culture,Sightseeing",19373,Long,None,2,Other
+Paris,City,Summer,Friends,"Sightseeing,Culture",3336,Long,None,4,Other
+Manali,Mountain,Winter,Solo,"Trekking,Adventure",5767,Short,None,2,India
+Hampi,Historical,Winter,Family,"Sightseeing,Photography",3776,Long,Heart Issues,1,India
+Goa,Beach,Summer,Family,"Beach,Party,Relaxation",5704,Long,Asthma,4,India
+Leh,Mountain,Summer,Solo,"Trekking,Adventure",5650,Short,None,4,India
+Ooty,Hill/Beach,Winter,Solo,"Relaxation,Trekking",21738,Short,Asthma,3,India
+Manali,Mountain,Winter,Couple,"Trekking,Adventure",23331,Short,None,6,India
+Manali,Mountain,Winter,Solo,"Trekking,Adventure",3205,Short,Heart Issues,1,India
+Leh,Mountain,Summer,Friends,"Trekking,Adventure",13969,Long,Asthma,1,India
+Dubai,City,Winter,Couple,"Shopping,Adventure",16235,Short,Heart Issues,3,Other
+Leh,Mountain,Summer,Solo,"Trekking,Adventure",19826,Long,Heart Issues,4,India
+Kerala,Hill/Beach,Monsoon,Family,"Houseboat,Relaxation",5922,Long,None,5,India
+Paris,City,Summer,Solo,"Sightseeing,Culture",6275,Short,Heart Issues,1,Other
+Dubai,City,Winter,Solo,"Shopping,Adventure",10062,Long,None,6,Other
+Ooty,Hill/Beach,Winter,Solo,"Relaxation,Trekking",16039,Long,Asthma,6,India
+Leh,Mountain,Summer,Friends,"Trekking,Adventure",8764,Long,Heart Issues,3,India
+Manali,Mountain,Winter,Couple,"Trekking,Adventure",12457,Short,Heart Issues,3,India
+Hampi,Historical,Winter,Couple,"Sightseeing,Photography",19382,Long,Heart Issues,3,India
+Leh,Mountain,Summer,Friends,"Trekking,Adventure",3360,Long,Heart Issues,4,India
+Leh,Mountain,Summer,Couple,"Trekking,Adventure",21291,Short,Heart Issues,2,India
+Goa,Beach,Summer,Solo,"Beach,Party,Relaxation",20983,Short,None,5,India
+Ooty,Hill/Beach,Winter,Friends,"Relaxation,Trekking",8721,Long,Asthma,3,India
+Hampi,Historical,Winter,Couple,"Sightseeing,Photography",13621,Long,None,4,India
+Hampi,Historical,Winter,Couple,"Sightseeing,Photography",11360,Long,Asthma,4,India
+Manali,Mountain,Winter,Couple,"Trekking,Adventure",4508,Long,None,1,India
+Paris,City,Summer,Friends,"Sightseeing,Culture",4136,Long,None,5,Other
+Singapore,City,Summer,Solo,"Shopping,ThemePark",21597,Long,Heart Issues,5,Other
+Kerala,Hill/Beach,Monsoon,Couple,"Houseboat,Relaxation",14269,Short,Asthma,1,India
+Dubai,City,Winter,Solo,"Shopping,Adventure",24574,Short,None,4,Other
+Singapore,City,Summer,Couple,"Shopping,ThemePark",9955,Short,Heart Issues,2,Other
+Ooty,Hill/Beach,Winter,Solo,"Relaxation,Trekking",6027,Short,None,1,India
+Hampi,Historical,Winter,Family,"Sightseeing,Photography",9350,Short,None,3,India

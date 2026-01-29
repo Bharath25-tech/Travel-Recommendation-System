@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>TravelMate AI</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+<div class="container">
+
+    <div class="header">
+        <h1>TravelMate AI</h1>
+        <p>Smart Travel Destination Recommendation System</p>
+    </div>
+
+    <form action="/predict" method="post" class="card">
+
+        <div class="grid">
+
+            <div>
+                <label>Trip Type</label>
+                <select name="type" required>
+                    <option>Beach</option>
+                    <option>Mountain</option>
+                    <option>City</option>
+                    <option>Adventure</option>
+                </select>
+            </div>
+
+            <div>
+                <label>Season</label>
+                <select name="season" required>
+                    <option>Summer</option>
+                    <option>Winter</option>
+                    <option>Monsoon</option>
+                </select>
+            </div>
+
+            <div>
+                <label>Travel Group</label>
+                <select name="group" required>
+                    <option>Family</option>
+                    <option>Friends</option>
+                    <option>Solo</option>
+                </select>
+            </div>
+
+            <div>
+                <label>Duration</label>
+                <select name="duration" required>
+                    <option>Short</option>
+                    <option>Long</option>
+                </select>
+            </div>
+
+            <div>
+                <label>Health Condition</label>
+                <select name="health" required>
+                    <option>None</option>
+                    <option>Heart</option>
+                    <option>Asthma</option>
+                    <option>Diabetes</option>
+                </select>
+            </div>
+
+            <div>
+                <label>Region</label>
+                <select name="region" required>
+                    <option>India</option>
+                    <option>International</option>
+                </select>
+            </div>
+
+            <div>
+                <label>Budget Per Person</label>
+                <input type="number" name="budget" min="2000" required>
+            </div>
+
+            <div>
+                <label>No. of People</label>
+                <input type="number" name="people" min="1" required>
+            </div>
+
+        </div>
+
+        <label>Preferred Activities</label>
+        <div class="checks">
+            <label><input type="checkbox" name="activities" value="Trekking"> Trekking</label>
+            <label><input type="checkbox" name="activities" value="Skiing"> Skiing</label>
+            <label><input type="checkbox" name="activities" value="Sightseeing"> Sightseeing</label>
+            <label><input type="checkbox" name="activities" value="Relaxation"> Relaxation</label>
+            <label><input type="checkbox" name="activities" value="Party"> Party</label>
+        </div>
+
+        <button type="submit">Get Recommendation</button>
+
+    </form>
+
+</div>
+
+</body>
+</html>
